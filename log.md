@@ -2,11 +2,14 @@
 
 ### Day 0: January 25, 2018
 
-**Today's Progress**:
-
+**Today's Progress**: Working on ReactJS Survey App. Problem with tutorial using refs, which are deprecated. Managed to partly fix this with by adding placeholder to the constuctor, then adding this to the input:
+``` javascript
+ <input type="text" placeholder={this.state.placeholder} />
+```
+Will do something else for a while, and then go back to this.
 **Thoughts:** 
-
-**Link to work:** [Survey App](http://www.example.com)
+    Annoying when a tutorial is slightly out of date, but guess it is difficult to keep up with all the rapid changes.
+**Link to work:** [Survey App](https://github.com/cmulliss/100-days-of-code)
 
 # 100 Days Of Code - Log
 
