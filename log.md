@@ -22,8 +22,6 @@ Will do something else for a while, and then go back to this.
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 
-# 100 Days Of Code - Log
-
 ### Day 2: January 27, 2018
 
 **Today's Progress**:
@@ -32,8 +30,6 @@ Will do something else for a while, and then go back to this.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
-
-# 100 Days Of Code - Log
 
 ### Day 3: January 28, 2018
 
@@ -44,8 +40,6 @@ Will do something else for a while, and then go back to this.
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 
-# 100 Days Of Code - Log
-
 ### Day 4: January 29, 2018
 
 **Today's Progress**:
@@ -54,8 +48,6 @@ Will do something else for a while, and then go back to this.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
-
-# 100 Days Of Code - Log
 
 ### Day 4: January 29, 2018
 
