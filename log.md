@@ -3,7 +3,7 @@
 ### Day 0: January 25, 2018
 
 **Today's Progress**: Working on ReactJS Survey App. Problem with tutorial using refs, which are deprecated. Managed to partly fix this with by adding placeholder to the constuctor, then adding this to the input:
-``` javascript
+``` javascript  
  <input type="text" placeholder={this.state.placeholder} />
 ```
 Will do something else for a while, and then go back to this.
@@ -11,7 +11,7 @@ Will do something else for a while, and then go back to this.
     Annoying when a tutorial is slightly out of date, but guess it is difficult to keep up with all the rapid changes.
 **Link to work:** [Survey App](https://github.com/cmulliss/100-days-of-code)
 
-# 100 Days Of Code - Log
+- - - 
 
 ### Day 1: January 26, 2018
 
@@ -22,14 +22,26 @@ Will do something else for a while, and then go back to this.
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 
+- - - 
+
 ### Day 2: January 27, 2018
 
-**Today's Progress**:
+**Today's Progress**: continued with book. Getting a bit lost with state and arrays, but will spend more time on this until I get it. Learning a bit more all the time. Found I didn't need to diff files in the (integrated) terminal, but could use 'compare this file with' directly in vscode. 
+Now know:
+- map creates a new array
+- Object.assign to avoid mutating objects
+- data flows parent to children through props
+- event flows from children to parent through props
+- never, never, never mutate state
+- have to manually bind custom component methods, as not part of standard React component API
+- or can use the 'transform-class-properties' plugin. Can then refactor as arrow functions which will ensure 'this' inside the function is bound to the component 
 
-**Thoughts:** 
+**Thoughts:** Get a bit lost about where all the methods go, as they are created. Seem to have methods and consts eveywhere. Keep going and go back to earlier stages of tutorials and go through the explanations again. 
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
+
+- - - 
 
 ### Day 3: January 28, 2018
 
@@ -40,14 +52,7 @@ Will do something else for a while, and then go back to this.
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 
-### Day 4: January 29, 2018
-
-**Today's Progress**:
-
-**Thoughts:** 
-
-**Link to work:** 
-(https://github.com/cmulliss/100-days-of-code)
+- - - 
 
 ### Day 4: January 29, 2018
 
@@ -57,3 +62,16 @@ Will do something else for a while, and then go back to this.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+
+### Day 5: January 30, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
