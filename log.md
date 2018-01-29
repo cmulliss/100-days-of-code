@@ -45,9 +45,10 @@ Now know:
 
 ### Day 3: January 28, 2018
 
-**Today's Progress**:
+**Today's Progress**: Day travelling, home late, but 3 hours yesterday.
 
 **Thoughts:** 
+Missing my code today, but great day out :)
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
@@ -56,9 +57,9 @@ Now know:
 
 ### Day 4: January 29, 2018
 
-**Today's Progress**:
+**Today's Progress**: Working on state again, beginning to get a better grasp of data flow.
 
-**Thoughts:** 
+**Thoughts:** Challenging, problem is remembering everything :)
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
