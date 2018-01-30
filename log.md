@@ -76,3 +76,103 @@ Missing my code today, but great day out :)
 (https://github.com/cmulliss/100-days-of-code)
 
 - - - 
+### Day 6: January 31, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 7: February 1, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day ### Day 8: February 2, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 9: February 3, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 10: February 4, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 11: February 5, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 12: February 6, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 13: February 7, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 5: January 30, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 5: January 30, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
