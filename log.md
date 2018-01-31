@@ -68,9 +68,9 @@ Missing my code today, but great day out :)
 
 ### Day 5: January 30, 2018
 
-**Today's Progress**:
+**Today's Progress**: Still working on state in the Youtube video search app tutorial. videos displaying and some css.
 
-**Thoughts:** 
+**Thoughts:** About 3 hours today. Making lots of notes and going over same bits until they make sense.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
@@ -78,9 +78,9 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 6: January 31, 2018
 
-**Today's Progress**:
+**Today's Progress**: Completed YouTube tutorial. 
 
-**Thoughts:** 
+**Thoughts:** A bit lost on multiple levels of callback, but guess some more practise needed.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
