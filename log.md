@@ -88,9 +88,9 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 7: February 1, 2018
 
-**Today's Progress**:
+**Today's Progress**: Working from the fullstack react book again. Going through the first exercise to reinforce understanding of props, using external data file and event handling. Changing to a blog tutorial to help with basics.
 
-**Thoughts:** 
+**Thoughts:** Understanding a bit more all the time, seems slow progress, but will keep going! 
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
