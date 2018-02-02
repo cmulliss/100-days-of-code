@@ -98,12 +98,13 @@ Missing my code today, but great day out :)
 - - - 
 ### Day ### Day 8: February 2, 2018
 
-**Today's Progress**:
+**Today's Progress**: Timer completed in '10 Apps' tutorial. 
 
-**Thoughts:** 
+**Thoughts:** Seem to be majoring on terse commit messages :)
+- Really liked Alexander Kallaway's comments on 'small victories' 
 
 **Link to work:** 
-(https://github.com/cmulliss/100-days-of-code)
+(https://github.com/cmulliss/100-days-of-code) and (https://github.com/cmulliss/react-10-apps)
 
 - - - 
 ### Day 9: February 3, 2018
