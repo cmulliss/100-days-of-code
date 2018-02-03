@@ -96,7 +96,7 @@ Missing my code today, but great day out :)
 (https://github.com/cmulliss/100-days-of-code)
 
 - - - 
-### Day ### Day 8: February 2, 2018
+### Day 8: February 2, 2018
 
 **Today's Progress**: Timer completed in '10 Apps' tutorial. 
 
@@ -109,9 +109,9 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 9: February 3, 2018
 
-**Today's Progress**:
+**Today's Progress**: Working on a Course Sales tutorial. This and bind beginning to make more sense. 
 
-**Thoughts:** 
+**Thoughts:** Seems like slow progress, but getting there by small steps. Fun to do!
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
