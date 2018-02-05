@@ -1,15 +1,19 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+//import PropTypes from 'prop-types';
 
-// extends binds this class to react
-// need a render method, with a return inside it
+/* extends binds this class to react, need a render method, with a
+return inside it this means this class, NOT this function */
 class Header extends Component {
+    constructor(props) {
+        super(props);
 
-    inputChange(event) {
-        console.log(event.target.value);
+        this.state = {
+            keywords: ''
+        }
     }
-
-    showAlert() {
-        alert('I am an alert');
+    inputChange(event) {
+        // console.log(event.target.value);
+        this.setState({keywords: event.target.value})
     }
     render () {
         return (
@@ -17,15 +21,9 @@ class Header extends Component {
                 <div className="logo"
                 onClick={() => {console.log('clicked')} }
                 >Logo</div>
-                <input onChange={this.inputChange} />
-                <br />
-                <button onClick={this.showAlert}>Show alert</button>
-                </header>
+                <input onChange={this.inputChange.bind(this)} />
+            </header>
         )
     }
 }
-
 export default Header;
-
-/* add a method / function, the 'this' keyword says look within 
-the class for the method inputChange */

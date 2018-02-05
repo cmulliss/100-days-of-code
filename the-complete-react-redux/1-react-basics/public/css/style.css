@@ -18,3 +18,9 @@ header input {
     font-size: 20px;
     margin: 20px 0px;
 }
+
+button {
+    margin: 10px;
+    color: red;
+    font-size: 20px;
+}
