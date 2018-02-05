@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 25, 2018
+### Day 0: Thursday January 25, 2018
 
 **Today's Progress**: Working on ReactJS Survey App. Problem with tutorial using refs, which are deprecated. Managed to partly fix this with by adding placeholder to the constuctor, then adding this to the input:
 ``` javascript  
@@ -13,7 +13,7 @@ Will do something else for a while, and then go back to this.
 
 - - - 
 
-### Day 1: January 26, 2018
+### Day 1: Friday January 26, 2018
 
 **Today's Progress**: Getting the hang of this.props and pulling in objects from seed file.
 
@@ -24,7 +24,7 @@ Will do something else for a while, and then go back to this.
 
 - - - 
 
-### Day 2: January 27, 2018
+### Day 2: Saturday January 27, 2018
 
 **Today's Progress**: continued with book. Getting a bit lost with state and arrays, but will spend more time on this until I get it. Learning a bit more all the time. Found I didn't need to diff files in the (integrated) terminal, but could use 'compare this file with' directly in vscode. 
 Now know:
@@ -43,7 +43,7 @@ Now know:
 
 - - - 
 
-### Day 3: January 28, 2018
+### Day 3: Sunday January 28, 2018
 
 **Today's Progress**: Day travelling, home late, but 3 hours yesterday.
 
@@ -55,7 +55,7 @@ Missing my code today, but great day out :)
 
 - - - 
 
-### Day 4: January 29, 2018
+### Day 4: Monday January 29, 2018
 
 **Today's Progress**: Working on state again, beginning to get a better grasp of data flow.
 
@@ -66,7 +66,7 @@ Missing my code today, but great day out :)
 
 - - - 
 
-### Day 5: January 30, 2018
+### Day 5: Tuesday January 30, 2018
 
 **Today's Progress**: Still working on state in the Youtube video search app tutorial. videos displaying and some css.
 
@@ -76,7 +76,7 @@ Missing my code today, but great day out :)
 (https://github.com/cmulliss/100-days-of-code)
 
 - - - 
-### Day 6: January 31, 2018
+### Day 6: Wednesday January 31, 2018
 
 **Today's Progress**: Completed YouTube tutorial. 
 
@@ -86,7 +86,7 @@ Missing my code today, but great day out :)
 (https://github.com/cmulliss/100-days-of-code)
 
 - - - 
-### Day 7: February 1, 2018
+### Day 7: Thursday February 1, 2018
 
 **Today's Progress**: Working from the fullstack react book again. Going through the first exercise to reinforce understanding of props, using external data file and event handling. Changing to a blog tutorial to help with basics.
 
@@ -96,7 +96,7 @@ Missing my code today, but great day out :)
 (https://github.com/cmulliss/100-days-of-code)
 
 - - - 
-### Day 8: February 2, 2018
+### Day 8: Friday February 2, 2018
 
 **Today's Progress**: Timer completed in '10 Apps' tutorial. 
 
@@ -107,7 +107,7 @@ Missing my code today, but great day out :)
 (https://github.com/cmulliss/100-days-of-code) and (https://github.com/cmulliss/react-10-apps)
 
 - - - 
-### Day 9: February 3, 2018
+### Day 9: Saturday February 3, 2018
 
 **Today's Progress**: Working on a Course Sales tutorial. This and bind beginning to make more sense. 
 
@@ -117,11 +117,11 @@ Missing my code today, but great day out :)
 (https://github.com/cmulliss/100-days-of-code)
 
 - - - 
-### Day 10: February 4, 2018
+### Day 10: Sunday February 4, 2018
 
-**Today's Progress**:
+**Today's Progress**: Going back to basics. Using a new tutorial that seems really well structured with clear explanations. Following helpful suggestion from OH, maybe need a different tutorial :) Understanding 'this' better, and practising es6 syntax.
 
-**Thoughts:** 
+**Thoughts:** Small steps again, and consolidating existing knowledge.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
@@ -129,9 +129,9 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 11: February 5, 2018
 
-**Today's Progress**:
+**Today's Progress**: Really beginning to understand props, state and map. 
 
-**Thoughts:** 
+**Thoughts:** Finding a good, up to date tutorial (using es6) really paying off. So enjoyable having trouble stopping!
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
