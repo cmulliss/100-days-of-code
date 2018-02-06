@@ -24,3 +24,8 @@ button {
     color: red;
     font-size: 20px;
 }
+.news_list_item {
+    padding: 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid grey;
+}

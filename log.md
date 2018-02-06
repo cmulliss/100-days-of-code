@@ -139,9 +139,9 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 12: February 6, 2018
 
-**Today's Progress**:
+**Today's Progress**: Finished basics section, a lot of ES6 and new things like filter. 
 
-**Thoughts:** 
+**Thoughts:** Tutor suggests using this learning to write one's own app. Will go through the final section again and then have a go at this.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
