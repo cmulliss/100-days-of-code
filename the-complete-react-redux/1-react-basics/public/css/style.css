@@ -2,30 +2,16 @@ body {
     margin: 0;
     font-family: 'Roboto';
 }
-
 header {
     background: #03a9f4;
     text-align: center;
 }
-
 .logo {
     color: #fff;
     font-size: 40px;
-    font-family: 'Anton';
+    font-family: Anton;
 }
-
 header input {
     font-size: 20px;
     margin: 20px 0px;
-}
-
-button {
-    margin: 10px;
-    color: red;
-    font-size: 20px;
-}
-.news_list_item {
-    padding: 20px;
-    box-sizing: border-box;
-    border-bottom: 1px solid grey;
 }

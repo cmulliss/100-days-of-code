@@ -127,7 +127,7 @@ Missing my code today, but great day out :)
 (https://github.com/cmulliss/100-days-of-code)
 
 - - - 
-### Day 11: February 5, 2018
+### Day 11: Monday February 5, 2018
 
 **Today's Progress**: Really beginning to understand props, state and map. 
 
@@ -137,7 +137,7 @@ Missing my code today, but great day out :)
 (https://github.com/cmulliss/100-days-of-code)
 
 - - - 
-### Day 12: February 6, 2018
+### Day 12: Tuesday February 6, 2018
 
 **Today's Progress**: Finished basics section, a lot of ES6 and new things like filter. 
 
@@ -147,7 +147,72 @@ Missing my code today, but great day out :)
 (https://github.com/cmulliss/100-days-of-code)
 
 - - - 
-### Day 13: February 7, 2018
+### Day 13: Wednesday February 7, 2018
+
+**Today's Progress**: Out for most of the day, so only 30 minutes completed. Going over final section of tutorial again.
+
+**Thoughts:** Will do more tomorrow to make up.
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 14: Thursday 8 February, 2018
+
+**Today's Progress**: Started the tutorial from scratch again to help consolidate learning so far.
+
+**Thoughts:** Difficult to concentrate when tired, as didn't sleep well lastg night. Still managed to catch up from yesterday though.
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 15: Friday 9 February, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 16: Saturday 10 February, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 17: Sunday 11 February, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 18: Monday 12 February, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 19: Tuesday 13 February, 2018
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 20: Wednesday 14 February, 2018
 
 **Today's Progress**:
 
@@ -156,24 +221,3 @@ Missing my code today, but great day out :)
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 
-- - - 
-### Day 5: January 30, 2018
-
-**Today's Progress**:
-
-**Thoughts:** 
-
-**Link to work:** 
-(https://github.com/cmulliss/100-days-of-code)
-
-- - - 
-### Day 5: January 30, 2018
-
-**Today's Progress**:
-
-**Thoughts:** 
-
-**Link to work:** 
-(https://github.com/cmulliss/100-days-of-code)
-
-- - - 
