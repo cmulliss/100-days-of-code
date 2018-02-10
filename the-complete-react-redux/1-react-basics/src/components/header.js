@@ -2,10 +2,19 @@ import React, { Component } from 'react'
 
 // exxtends binds the class to react
 class Header extends Component {
+    constructor(props) {
+        super(props);
 
-    //inputChange(event) {
-       // console.log(event.target.value)
-   // }
+        this.state = {
+            keywords: ''
+        }
+        console.log(props);
+    }
+
+    inputChange(event) {
+       this.setState({keywords: event.target.value})
+       this.props.newsSearch(event.target.value)
+    }
     render () {
        
         return (
@@ -15,8 +24,8 @@ class Header extends Component {
                 onClick={() => {console.log('clicked')}}
                 >Logo
                 </div>
-                <input onChange={(event) => {console.log(event.target.value)}}/>
-                </header>
+               <input onChange={this.inputChange.bind(this)} />
+            </header>
             </div>
         )
     }
@@ -24,6 +33,11 @@ class Header extends Component {
 
 export default Header
 
-// <input onChange={this.inputChange}/>
-// React. not allowed to interact with DOM directly, 
-// only through React
+/*  The following replaces:
+   inputChange(event) {
+       console.log(event.target.value)
+    }
+<input onChange={(event) => {console.log(event.target.value)}}/>
+
+React, not allowed to interact with DOM directly, only through React
+*/
