@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
 
-// inline is styles as an object
+// exxtends binds the class to react
 class Header extends Component {
 
-    inputChange(event) {
-        console.log('event.target.value')
-    }
+    //inputChange(event) {
+       // console.log(event.target.value)
+   // }
     render () {
        
         return (
@@ -15,7 +15,7 @@ class Header extends Component {
                 onClick={() => {console.log('clicked')}}
                 >Logo
                 </div>
-                <input onChange={this.inputChange()}/>
+                <input onChange={(event) => {console.log(event.target.value)}}/>
                 </header>
             </div>
         )
@@ -23,3 +23,7 @@ class Header extends Component {
 }
 
 export default Header
+
+// <input onChange={this.inputChange}/>
+// React. not allowed to interact with DOM directly, 
+// only through React
