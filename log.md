@@ -169,18 +169,18 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 15: Friday 9 February, 2018
 
-**Today's Progress**:
+**Today's Progress**: Unwell today, so no coding.
 
-**Thoughts:** 
+**Thoughts:** Not a problem as I can catch up tomorrow.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
 ### Day 16: Saturday 10 February, 2018
 
-**Today's Progress**:
+**Today's Progress**: Put in over 4 hours today, made up for yesterday. Finished repeat of first section of tutorial. Progessed to starting React Router.
 
-**Thoughts:** 
+**Thoughts:** Still a bit confused about 'filter', but will go over it again later, and try my own version of the app. 
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
