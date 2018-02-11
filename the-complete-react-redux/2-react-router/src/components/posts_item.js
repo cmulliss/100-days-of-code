@@ -1,13 +1,10 @@
-import React, { Component } from 'react'
+import React from 'react';
 
-class PostsItem extends Component {
-    render () {
-        return (
-            <div>
-                Item
-            </div>
-        )
-    }
+//import PropTypes from 'prop-types';
+
+const PostsItem = ({match}) => {
+    return (<div>
+        {match.params.id}
+        </div>)
 }
-
 export default PostsItem;
