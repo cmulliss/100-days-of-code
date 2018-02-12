@@ -196,9 +196,9 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 18: Monday 12 February, 2018
 
-**Today's Progress**:
+**Today's Progress**: Started routing project. Beginning to get the hang of routing.
 
-**Thoughts:** 
+**Thoughts:** This is fun :)
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
