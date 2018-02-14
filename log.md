@@ -202,22 +202,367 @@ Missing my code today, but great day out :)
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
+
 - - - 
 ### Day 19: Tuesday 13 February, 2018
 
-**Today's Progress**:
+**Today's Progress**: Continuing Routing project.
+
+**Thoughts:** Driven mad by our slowwwww.... broadband, lucky if we get 0.3Mbps, due to get fibre in the next month or so, can hardly wait. Does make working very difficult. Is a case of npm whatever command, go make another coffee while you wait, and repeat.
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 20: Wednesday 14 February, 2018
+
+**Today's Progress**: Starting routing project from scratch again, to make sure I am understanding it. 
+
+**Thoughts:** Realising I need to update my CSS knowledge as tutorial is doing cool css stuff I hadn't come across.
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 21: Thursday 15 February, 2018
+
+**Today's Progress**:  
 
 **Thoughts:** 
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day 20: Wednesday 14 February, 2018
+### Day 22: Friday 16 February, 2018
 
-**Today's Progress**:
+**Today's Progress**:  
 
 **Thoughts:** 
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 23: Saturday 17 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 24: Sunday 18 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 25: Monday 19 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 26: Tuesday 20 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 27: Wednesday 21 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 28: Thursday 22 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+- - - 
+### Day 29: Friday 23 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 30: Saturday 24 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 31: Sunday 25 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 32: Monday 26 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 33: 27 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 34: 28 February, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day :  March, 2018
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+
+
+
 
