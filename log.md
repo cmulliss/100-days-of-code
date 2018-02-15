@@ -225,9 +225,9 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 21: Thursday 15 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Continued with yesterdays work, progressing with project. Sense of it coming together. Hope to complete it tomorrow.
 
-**Thoughts:** 
+**Thoughts:** Getting quite obsessive. As soon as I arrive home spending as much time as possible on this, just stopping to do essential household stuff.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
