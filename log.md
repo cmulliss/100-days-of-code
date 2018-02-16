@@ -234,9 +234,9 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 22: Friday 16 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Backtracking over earlier stuff to get a better grasp of basics in reactjs.  
 
-**Thoughts:** 
+**Thoughts:** Getting a bit lost as tutorial progresses. Seems to be a tendency for the tutorials to start off well, going step by step, then suddenly to accelerate and drop loads of new concepts in without much explanation.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
