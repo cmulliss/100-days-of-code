@@ -244,9 +244,9 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 23: Saturday 17 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Switched to a new tutorial and this one explains every step clearly (so far). Really good stuff on using es6 instead of bind, and using state without a constructor if not explicitly required.
 
-**Thoughts:** 
+**Thoughts:** Really enjoying this today. Hope tutorial continues to be as helpful.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
