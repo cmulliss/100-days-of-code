@@ -48,7 +48,7 @@ Now know:
 **Today's Progress**: Day travelling, home late, but 3 hours yesterday.
 
 **Thoughts:** 
-Missing my code today, but great day out :)
+Missing my code today, but great day out!
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
@@ -59,7 +59,7 @@ Missing my code today, but great day out :)
 
 **Today's Progress**: Working on state again, beginning to get a better grasp of data flow.
 
-**Thoughts:** Challenging, problem is remembering everything :)
+**Thoughts:** Challenging, problem is remembering everything ...
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
@@ -100,7 +100,7 @@ Missing my code today, but great day out :)
 
 **Today's Progress**: Timer completed in '10 Apps' tutorial. 
 
-**Thoughts:** Seem to be majoring on terse commit messages :)
+**Thoughts:** Seem to be majoring on terse commit messages.
 - Really liked Alexander Kallaway's comments on 'small victories' 
 
 **Link to work:** 
@@ -119,7 +119,7 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 10: Sunday February 4, 2018
 
-**Today's Progress**: Going back to basics. Using a new tutorial that seems really well structured with clear explanations. Following helpful suggestion from OH, maybe need a different tutorial :) Understanding 'this' better, and practising es6 syntax.
+**Today's Progress**: Going back to basics. Using a new tutorial that seems really well structured with clear explanations. Following helpful suggestion from OH, maybe need a different tutorial? Understanding 'this' better, and practising es6 syntax.
 
 **Thoughts:** Small steps again, and consolidating existing knowledge.
 
@@ -198,7 +198,7 @@ Missing my code today, but great day out :)
 
 **Today's Progress**: Started routing project. Beginning to get the hang of routing.
 
-**Thoughts:** This is fun :)
+**Thoughts:** This is fun!
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
@@ -254,9 +254,9 @@ Missing my code today, but great day out :)
 - - - 
 ### Day 24: Sunday 18 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Getting a better grasp of state and props. Also, interested to find conditional css included.
 
-**Thoughts:** 
+**Thoughts:** Still getting a bit confused by multiple levels on props, but will go over this again.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
