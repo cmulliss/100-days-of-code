@@ -264,9 +264,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 25: Monday 19 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Worked through events, state and props again. Getting a better grasp of these. 
 
-**Thoughts:** 
+**Thoughts:** I will continue with the tutorial and see if this basic stuff starts to consolidate.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
