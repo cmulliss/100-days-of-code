@@ -22,3 +22,8 @@ header input {
 .non-active {
     background: purple;
 }
+
+.news_item {
+    background: red;
+}
+

@@ -274,9 +274,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 26: Tuesday 20 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Covered different ways of implementing css in React. Objects, glamor and modules. Starting 'filter', can use a function in a child component, from parent via props.
 
-**Thoughts:** 
+**Thoughts:** Will leave css modules for now as don't want to mess with all the hidden configuration files at this stage. Rather like glamor though.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)

@@ -21,7 +21,7 @@ const NewsItem = ({item}) => {
         }
     })
     let item_grey = css({
-        background: '#ddd'
+        background: 'lightgrey'
     })
 // css using backticks, template strings
     return (
