@@ -284,9 +284,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 27: Wednesday 21 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Started routing and linking. 
 
-**Thoughts:** 
+**Thoughts:** Need to go back over filtering and routing tomorrow. Interesting although not clear over reason for using search within link.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
