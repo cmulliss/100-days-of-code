@@ -5,9 +5,12 @@ const Profile = (props) => {
     console.log(props)
     return (
         <div>
-        <Link to="/posts">Take me to /profile/posts</Link>
+        <Link to={{
+            pathname: `${props.match.url}/posts`
+        }}>Take me to /profile/posts</Link>
         </div>
     )
 }
  
 export default Profile;
+// dynamic url
