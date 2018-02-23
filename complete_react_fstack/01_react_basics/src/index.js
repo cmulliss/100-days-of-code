@@ -8,33 +8,30 @@ import NewsList from './components/news_list';
 
 console.log(JSON)
 class App extends Component {
-
     state = {
         news: JSON,
-        filtered: []
+        filtered: ''
     }
-// triggering a fn we have in the parent, 
-// here in the child component
-    getKeyword = (event) => {
-       // console.log(event.target.value)
-       let keyword = event.target.value;
-       let filtered = this.state.news.filter((item) => {
-           return item.title.indexOf(keyword) > -1
-       });
-       //console.log(filtered)
-       // es6 can replace 'filtered: filtered' with 'filtered'
-       this.setState({
-           filtered: filtered
-       })
-    }
-// create an alias for overlong <NewsList ....
+
+getKeyword = (event) => {
+    //console.log(event.target.value)
+    let keyword = event.target.value
+    let filtered = this.state.news.filter((item) => {
+        return item.title.indexOf(keyword) > -1
+    })
+    console.log(filtered)
+    this.setState({
+        filtered
+    })
+}
   render() {
+      // create aliases
       let newsFiltered = this.state.filtered
-      let newsWhole = this.state.news
+      let NewsWhole = this.state.news
     return (
         <div>
         <Header keywords={this.getKeyword}/>
-        <NewsList news={newsFiltered.length === 0 ? newsWhole : newsFiltered}>
+        <NewsList news={newsFiltered.length === 0 ? NewsWhole : newsFiltered}>
         <h3>The News: </h3>
         </NewsList>
         </div>
@@ -42,8 +39,6 @@ class App extends Component {
     }
 }
 render(<App />, document.querySelector('#root'));
-/*
-Need a way to pass the news to to a different
-component, NewsList.
-*/
+/* Need a way to pass the news to to a different
+component, NewsList. */
 

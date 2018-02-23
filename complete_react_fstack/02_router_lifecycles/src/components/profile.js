@@ -3,6 +3,9 @@ import { Link } from 'react-router-dom';
 
 const Profile = (props) => {
     console.log(props)
+
+    props.history.push('/')
+
     return (
         <div>
         <Link to={{
