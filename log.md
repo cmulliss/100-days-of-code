@@ -304,9 +304,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 29: Friday 23 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: More on routing and then restarted youtube search app tutorial. Practising factoring from vanilla js to ES6.
 
-**Thoughts:** 
+**Thoughts:** More of the basics beginning to make sense. Getting better at ES6 too. Need to go over more of the basics though.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
