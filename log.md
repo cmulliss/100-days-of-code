@@ -313,9 +313,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 30: Saturday 24 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Redoing the youtube search tutorial, not as easy as expected. Can definitely do more of it than last time, but still getting a bit lost with some of it.
 
-**Thoughts:** 
+**Thoughts:** Some days really happy with progress, other days quite frustrated. Need to keep a positive attitude and not get discouraged on the difficult days!
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
