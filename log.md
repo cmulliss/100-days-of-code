@@ -322,9 +322,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 31: Sunday 25 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Redoing some state and props and ES6. 
 
-**Thoughts:** 
+**Thoughts:** Slow progress, but getting there. Will go over 'map' tomorrow.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
