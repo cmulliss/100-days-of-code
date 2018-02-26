@@ -331,9 +331,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 32: Monday 26 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Map, filter and generally getting a better grounding in state, props, fat arrows and passing functions via props so can limit use of class component and state.
 
-**Thoughts:** 
+**Thoughts:** Think I am rather impatient, want to understand it all instantly! In fact need to just keep practising.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)

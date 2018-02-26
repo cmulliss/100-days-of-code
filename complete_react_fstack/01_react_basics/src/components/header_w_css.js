@@ -18,15 +18,7 @@ class Header extends Component {
     }
 
     render () {
-        /*const style = {
-            background: 'red'
-        }
-        if (this.state.keywords != '') {
-            style.background = 'blue'
-        } else {
-            style.background = 'red'
-        } */
-
+        console.log(this.props.keywords)
         return (
             <header className={this.state.active}>
             <div className="logo"

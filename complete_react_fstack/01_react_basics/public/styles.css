@@ -22,3 +22,6 @@ header input {
 .non-active {
     background: purple;
 }
+h1 {
+    padding: 10px;
+}
