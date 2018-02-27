@@ -340,9 +340,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 33: 27 February, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Working from the Fullstack React book again today, will continue tomorrow.
 
-**Thoughts:** 
+**Thoughts:** Book is good, but prefer the video tutorials.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
