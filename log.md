@@ -338,7 +338,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day 33: 27 February, 2018
+### Day 33: Tuesday 27 February, 2018
 
 **Today's Progress**: Working from the Fullstack React book again today, will continue tomorrow.
 
@@ -347,7 +347,16 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day 34: 28 February, 2018
+### Day 34: Wednesday 28 February, 2018
+
+**Today's Progress**: Continuing with second tutorial from book. 
+
+**Thoughts:** Will do a bit more of this and then maybe back to video tutorials
+
+**Link to work:** 
+(https://github.com/cmulliss/100-days-of-code)
+- - - 
+### Day 35: Thursday 1 March, 2018
 
 **Today's Progress**:  
 
@@ -356,7 +365,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 36: Friday 2 March, 2018
 
 **Today's Progress**:  
 
@@ -365,7 +374,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 37: Saturday 3 March, 2018
 
 **Today's Progress**:  
 
@@ -374,7 +383,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 38: Sunday 4 March  March, 2018
 
 **Today's Progress**:  
 
@@ -383,7 +392,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 39: Monday 5 March, 2018
 
 **Today's Progress**:  
 
@@ -392,7 +401,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 40: Tuesday 6 March, 2018
 
 **Today's Progress**:  
 
@@ -401,7 +410,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 41: Wednesday 7 March, 2018
 
 **Today's Progress**:  
 
@@ -410,7 +419,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 41: Thursday 8 March, 2018
 
 **Today's Progress**:  
 
@@ -419,7 +428,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 42: Friday 9 March, 2018
 
 **Today's Progress**:  
 
@@ -428,7 +437,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 43: Saturday 10 March, 2018
 
 **Today's Progress**:  
 
@@ -437,7 +446,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 44: Sunday 11 March, 2018
 
 **Today's Progress**:  
 
@@ -446,7 +455,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 45: Monday 12 March, 2018
 
 **Today's Progress**:  
 
@@ -455,7 +464,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 46: Tuesday 13 March, 2018
 
 **Today's Progress**:  
 
@@ -464,7 +473,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 47: Wednesday 14 March, 2018
 
 **Today's Progress**:  
 
@@ -473,7 +482,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 48: Thursday 15 March, 2018
 
 **Today's Progress**:  
 
@@ -482,7 +491,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
+### Day 49: Friday 16 March, 2018
 
 **Today's Progress**:  
 
@@ -491,16 +500,7 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day :  March, 2018
-
-**Today's Progress**:  
-
-**Thoughts:** 
-
-**Link to work:** 
-(https://github.com/cmulliss/100-days-of-code)
-- - - 
-### Day :  March, 2018
+### Day 50: Saturday 17 March, 2018
 
 **Today's Progress**:  
 
