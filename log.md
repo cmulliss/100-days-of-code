@@ -358,9 +358,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 35: Thursday 1 March, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Good progress with the youtube search tutorial. Getting the hang of callbacks etc.
 
-**Thoughts:** 
+**Thoughts:** Will complete this tomorrow, hopefully.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)

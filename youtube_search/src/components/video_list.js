@@ -1,12 +1,22 @@
 import React from 'react';
 import VideoListItem from './video_list_item';
 
-//need to render one videoList item per video
+/*need to render one videoList item per video
+return a reference to this array that gets returned
+const VideoItems 
+Going to pass the callback that's inside props to 
+VideoListItem, which now has access to property
+onVideoSelect
+*/
 const VideoList = (props) => {
     const VideoItems = props.videos.map((video) =>  {
-    return <VideoListItem video={video} key={video.etag}/>
+    return (
+     <VideoListItem 
+        onVideoSelect={props.onVideoSelect}
+        video={video} 
+        key={video.etag}/>)
 });
-console.log(props.videos)
+//console.log(props.videos)
     return (
     <ul className="col-md-4 list-group">
     {VideoItems}
@@ -15,7 +25,7 @@ console.log(props.videos)
 };
 export default VideoList;
 /* class based component this.props, 
-function based component, props
+function based component, (props)
 
 for each element of videos, will have a fn
 that gets called with a single video, will
