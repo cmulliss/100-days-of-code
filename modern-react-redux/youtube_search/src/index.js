@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import React, { Component } from 'react';
 import { render } from 'react-dom';
 
@@ -22,20 +23,32 @@ class App extends Component  {
         videos: [],
         selectedVideo: null
     };
-    YTSearch({key: API_KEY, term: 'squirrels'}, (videos) => {
-        this.setState({ 
-            videos: videos,
-            selectedVideo: videos[0]
-         });
-    //resolves as this.setState({videos: videos})
-    // key and value the same
-    });
+    this.videoSearch('squirrels');
     }
+    /* Make a new method on App, one argument 'term'
+    Move initial search down into VideoSearch */
+    videoSearch(term) {
+        YTSearch({key: API_KEY, term:  term}, (videos) => {
+            this.setState({ 
+                videos: videos,
+                selectedVideo: videos[0]
+             });
+        //resolves as this.setState({videos: videos})
+        // key and value the same
+        });
+    }
+/* want to throttle, returns a new fn that can only be 
+called every 330ms. This is then passed to <SearchBar />
+onSearchTermChange callback is throttled
+*/
     render () {
-        console.log(this.state.videos)
+        const videoSearch = _.debounce(term => {
+      this.videoSearch(term);
+    }, 300);
+//console.log(this.state.videos)
         return (
             <div>
-                <SearchBar />
+                <SearchBar onSearchTermChange={videoSearch}/>
                 <VideoDetail video={this.state.selectedVideo} />
                 <VideoList
                     onVideoSelect={selectedVideo => 
@@ -51,6 +64,11 @@ render(<App/>, document.querySelector('.container'));
 /*
 callback, is a fn we are going to pass from App to
 VideoList, and finally into VideoListItem
+
+For search, we are going to pass a callback down into
+the SearchBar, this is going to take a string and make
+a new YTSearch, update state and set the list of the 
+new videos 
 
 Only the most parent component should be responsible
 for fetching data.

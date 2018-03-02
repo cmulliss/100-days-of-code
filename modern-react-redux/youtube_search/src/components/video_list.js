@@ -4,9 +4,6 @@ import VideoListItem from './video_list_item';
 /*need to render one videoList item per video
 return a reference to this array that gets returned
 const VideoItems 
-Going to pass the callback that's inside props to 
-VideoListItem, which now has access to property
-onVideoSelect
 */
 const VideoList = (props) => {
     const VideoItems = props.videos.map((video) =>  {

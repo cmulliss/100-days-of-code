@@ -367,9 +367,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 36: Friday 2 March, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Completed youtube search tutorial. Then started Redux, getting to grips with Redux, reducers, constainers and the react-redux library.
 
-**Thoughts:** 
+**Thoughts:** Will go over the Redux section again tomorrow as lots of new concepts.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
