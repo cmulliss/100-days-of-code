@@ -1,8 +1,9 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux';
+import { selectBook } from '../actions/index';
+import { bindActionCreators } from 'redux';
 
 class BookList extends Component {
-
     renderList() {
         return this.props.books.map(book => {
             return (
@@ -10,7 +11,6 @@ class BookList extends Component {
             )
         });
     }
-
     render () {
         return (
             <div>
@@ -28,11 +28,14 @@ function mapStateToProps(state) {
         books: state.books
     };
 }
-//takes a fn and a component
-export default connect(mapStateToProps) (BookList);
+function mapDispatchToProps(dispatch) {
+    return bindActionCreators({ selectBook: selectBook }, dispatch)
+}
+
+//takes a fn and a component and produces a container!!
+export default connect(mapStateToProps, mapDispatchToProps) (BookList);
 /* whatever gets returned from here will show up as  props
-inside BookList, retuns an object, what we return will be equivalent to 
-this.props
+inside BookList, retuns an object, what we return will be equivalent to this.props
 
 mapStateToProps takes in the entire state
 property is 'books' and the value to be the list of books

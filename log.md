@@ -376,9 +376,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 37: Saturday 3 March, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Going over Redux again, and going a bit further. Reducers, containers, actions all a bit complicated. Will continue tomorrow.
 
-**Thoughts:** 
+**Thoughts:** Wow! Complicated and interesting. Will continue for now and decide whether to switch to the other tutorial and go back to routing for light relief.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)

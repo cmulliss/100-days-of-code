@@ -6,3 +6,7 @@ export default function() {
         {title: 'Eloquent Ruby'}
     ];
 }
+/*
+going to write a fn that produces the value
+of our state, produce an array of objects. 
+*/
