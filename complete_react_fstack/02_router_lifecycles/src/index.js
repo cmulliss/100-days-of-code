@@ -1,62 +1,48 @@
 import React from 'react';
 import { render } from 'react-dom';
-import { BrowserRouter, Route, NavLink, Switch, Redirect } from 'react-router-dom';
-//import { HashRouter, Route, Link } from 'react-router-dom';
-//import { MemoryRouter, Route, Link } from 'react-router-dom';
-
-
+// BrowserRouter reacts with the URL history
+// Route executes whatever the BrowserRouter passes 
+import { BrowserRouter, Route, Link } from 'react-router-dom';
 
 import Home from './components/home';
 import Posts from './components/posts';
 import Profile from './components/profile';
 import PostItem from './components/post_item';
 
+// wrap everything in BrowserRouter tag
+// each Route has a path
+//links in header
+// pass object with rules inside profile
+
 // myapp.com/posts
 // myapp.com/profile/posts
-
-const App = () => {
+/// want link to take me to profile/posts, not just posts
+//needs dynamic solution, go to profile.js
+const App =  () => {
     return (
         <BrowserRouter>
         <div>
         <header>
-        <NavLink to="/">Home</NavLink><br />
-        <NavLink to="/Posts"
-        activeStyle={{color:'red'}}
-        activeClassName="selected"
-        >Posts</NavLink><br />
-        <NavLink to={{
-            pathname:'/profile'
-        }}>Profile</NavLink><br />
-        <hr />
+            <Link to="/">Home</Link><br />
+            <Link to="/Posts">Posts</Link><br />
+            <Link to={{
+                pathname: '/profile',
+              //  hash: '#motley',
+               // search: 'profile=true'
+            }}>Profile</Link>
+            <hr  />
         </header>
-        <Switch>
+            <Route exact path="/" component={Home} />
+            <Route exact path="/posts" component={Posts} />
+            <Route path="/posts/:id/:username" component={PostItem} />
+            <Route path="/profile" component={Profile} />
             
-            <Route path="/posts/:id/:username" component={PostItem}/>
-            <Route path="/profile" component={Profile}/>
-            <Route path="/posts" component={Posts}/>
-            <Route exact path="/" component={Home}/>
-            <Route render={() => <h3>oops, 404 not found! </h3>}/>
-            </Switch>
             </div>
         </BrowserRouter>
     )
 }
-render(<App />, document.querySelector('#root'));
-{/* 
-NavLinks give 'activeStyle' option
-
-SWitch, all the most specific routes at top of list
-least at bottom.
-
-<Redirect from="/profile" to="/" />
-
-set of rules inside an object
-<NavLink to={{
-pathname:'/profile',
-hash: '#motley',
-search: '?profile=true'
- }}>Profile</NavLink><br />
-
-  import NotFound from './components/404';
-    <Route path="*" component={NotFound}/>
-*/}
+render(<App />, document.querySelector('#root'))
+// using : gives dynamic id, and perhaps username
+//<Route path="/posts/:id/:username" component={PostItem} />
+// colons give params
+// how to grab it inside PostItem, 

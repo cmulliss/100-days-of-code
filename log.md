@@ -385,9 +385,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 38: Sunday 4 March  March, 2018
 
-**Today's Progress**:  
+**Today's Progress**: went over some Redux again, so complicated decided to leave it for now. Went back to ReactRouter and worked through from beginning to params. Will continue tomorrow.
 
-**Thoughts:** 
+**Thoughts:** Good idea to make progress with something, so moving back to Routing and leaving Redux for now works for me, less likely to get discouraged. Will go back to Redux later.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)

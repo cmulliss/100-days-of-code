@@ -1,12 +1,15 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const Profile = (props) => {
-    console.log(props)
+//BrowserRouter is going to give props with all the
+//info about the routes and whatever you are using
+//want a dynamic URL, from link, can see from console
+// so always getting dynamic url.
 
-    props.history.push('/')
+const Profile = (props) =>  {
+    console.log(props);
 
-    return (
+    return(
         <div>
         <Link to={{
             pathname: `${props.match.url}/posts`
@@ -14,6 +17,4 @@ const Profile = (props) => {
         </div>
     )
 }
- 
 export default Profile;
-// dynamic url
