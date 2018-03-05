@@ -394,9 +394,9 @@ Missing my code today, but great day out!
 - - - 
 ### Day 39: Monday 5 March, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Completed routing, went over the early stages again, then continued to end of section. Really enjoyable. Started on lifecycles, will continue with that topic tomorrow. 
 
-**Thoughts:** 
+**Thoughts:** Lots of new things to remember and determined not to be overwhelmed by Redux when I get back to it.
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)

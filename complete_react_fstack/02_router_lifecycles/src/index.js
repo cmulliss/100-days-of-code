@@ -2,41 +2,55 @@ import React from 'react';
 import { render } from 'react-dom';
 // BrowserRouter reacts with the URL history
 // Route executes whatever the BrowserRouter passes 
-import { BrowserRouter, Route, Link } from 'react-router-dom';
+//can use HashRouter instead
+import { BrowserRouter, Route, NavLink, Switch } from 'react-router-dom';
+//MemoryRouter, wont change URL, everything stored in memory
+//import { MemoryRouter, Route, Link } from 'react-router-dom';
+// can use NavLink instead of Link, get additional options
+// such as activeStyle
 
 import Home from './components/home';
 import Posts from './components/posts';
 import Profile from './components/profile';
 import PostItem from './components/post_item';
+import Life from './components/lifecycles';
 
 // wrap everything in BrowserRouter tag
 // each Route has a path
-//links in header
+//NavLinks in header
 // pass object with rules inside profile
 
 // myapp.com/posts
 // myapp.com/profile/posts
-/// want link to take me to profile/posts, not just posts
+/// want NavLink to take me to profile/posts, not just posts
 //needs dynamic solution, go to profile.js
 const App =  () => {
     return (
         <BrowserRouter>
         <div>
         <header>
-            <Link to="/">Home</Link><br />
-            <Link to="/Posts">Posts</Link><br />
-            <Link to={{
+            <NavLink to="/">Home</NavLink><br />
+            <NavLink to="/Posts"
+            activeStyle={{color: 'red'}}
+            activeClassname="selected"
+            >Posts</NavLink><br />
+            <NavLink to={{
                 pathname: '/profile',
               //  hash: '#motley',
                // search: 'profile=true'
-            }}>Profile</Link>
+            }}>Profile</NavLink><br />
+            <NavLink to="/lifecycles">Life Cycles</NavLink>
             <hr  />
         </header>
-            <Route exact path="/" component={Home} />
-            <Route exact path="/posts" component={Posts} />
-            <Route path="/posts/:id/:username" component={PostItem} />
+        <Switch>
+            <Route path="/lifecycles" component={Life} />
+            <Route path="/posts/:id/:username" 
+            component={PostItem} />
+            <Route path="/posts" component={Posts} />
             <Route path="/profile" component={Profile} />
-            
+            <Route exact path="/" component={Home} />
+            <Route render={() => <h3>oops, 404 not found!</h3>} />
+        </Switch>
             </div>
         </BrowserRouter>
     )
@@ -45,4 +59,8 @@ render(<App />, document.querySelector('#root'))
 // using : gives dynamic id, and perhaps username
 //<Route path="/posts/:id/:username" component={PostItem} />
 // colons give params
-// how to grab it inside PostItem, 
+// how to grab it inside PostItem
+// can replace 'exact', can use switch. Wrap all routes
+// inside switch, go to 1st match, so put home at bottom
+// put the least specific routes at end of chain
+// 404, ideally create a component
