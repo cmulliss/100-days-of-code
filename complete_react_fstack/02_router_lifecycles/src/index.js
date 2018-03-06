@@ -14,6 +14,7 @@ import Posts from './components/posts';
 import Profile from './components/profile';
 import PostItem from './components/post_item';
 import Life from './components/lifecycles';
+import Conditional from './components/conditional';
 
 // wrap everything in BrowserRouter tag
 // each Route has a path
@@ -32,18 +33,20 @@ const App =  () => {
             <NavLink to="/">Home</NavLink><br />
             <NavLink to="/Posts"
             activeStyle={{color: 'red'}}
-            activeClassname="selected"
+            activeClassName="selected"
             >Posts</NavLink><br />
             <NavLink to={{
                 pathname: '/profile',
               //  hash: '#motley',
                // search: 'profile=true'
             }}>Profile</NavLink><br />
-            <NavLink to="/lifecycles">Life Cycles</NavLink>
+            <NavLink to="/lifecycles">Life Cycles</NavLink><br />
+            <NavLink to="/conditional">Conditional</NavLink>
             <hr  />
         </header>
         <Switch>
             <Route path="/lifecycles" component={Life} />
+            <Route path="/conditional" component={Conditional} />
             <Route path="/posts/:id/:username" 
             component={PostItem} />
             <Route path="/posts" component={Posts} />

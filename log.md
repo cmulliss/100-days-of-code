@@ -401,11 +401,11 @@ Missing my code today, but great day out!
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
 - - - 
-### Day 40: Tuesday 6 March, 2018
+### Day 40: Tuesday 6 March, 2018 
 
-**Today's Progress**:  
+**Today's Progress**: Day 40 already? Rewound lifecycles and completed this section. Also conditional rendering, returning arrays and PureComponents.  
 
-**Thoughts:** 
+**Thoughts:** As usual will need to go through some of this again, actually most of it!
 
 **Link to work:** 
 (https://github.com/cmulliss/100-days-of-code)
