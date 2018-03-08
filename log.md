@@ -480,9 +480,9 @@ Missing my code today, but great day out!
 
 ### Day 42: Thursday 8 March, 2018
 
-**Today's Progress**:
+**Today's Progress**: Working through some basic react stuff again, including spread, rest, destructuring and primitive vs reference types. so I really get the hang of it. 
 
-**Thoughts:**
+**Thoughts:** Understanding more this time around, although still some areas of confusion.
 
 **Link to work:**
 (https://github.com/cmulliss/100-days-of-code)
