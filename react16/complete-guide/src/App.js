@@ -14,7 +14,7 @@ export default class App extends Component {
   // which refers to the class
   // can pass a referene to this handler as property
   // to our component, click={}
-  switchNameHandler = newName => {
+  switchNameHandler = (newName) => {
     //console.log("was clicked");
     this.setState({
       persons: [
@@ -44,10 +44,20 @@ export default class App extends Component {
   as can be inefficient without.
   */
   render() {
+    const myStyle = {
+      backgroundColor: "white",
+      font: "inherit",
+      border: "1px solid blue",
+      padding: "8px",
+      cursor: "pointer"
+    };
     return (
       <div className="App">
         <h1>I am a react app</h1>
-        <button onClick={this.switchNameHandler.bind(this, "Penguin")}>
+        <button
+          style={myStyle}
+          onClick={this.switchNameHandler.bind(this, "Penguin")}
+        >
           Switch Name
         </button>
         <p />
@@ -68,7 +78,7 @@ export default class App extends Component {
           name={this.state.persons[2].name}
           age={this.state.persons[2].age}
         >
-          My hobbby is reading
+          My hobby is reading
         </Person>
       </div>
     );

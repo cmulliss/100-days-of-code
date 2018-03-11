@@ -491,9 +491,9 @@ Missing my code today, but great day out!
 
 ### Day 43: Friday 9 March, 2018
 
-**Today's Progress**:
+**Today's Progress**: None as unwell.
 
-**Thoughts:**
+**Thoughts:** Wil add an additional day on to the end!
 
 **Link to work:**
 (https://github.com/cmulliss/100-days-of-code)
@@ -502,9 +502,9 @@ Missing my code today, but great day out!
 
 ### Day 44: Saturday 10 March, 2018
 
-**Today's Progress**:
+**Today's Progress**: Feeling better, but still a bit wobbly. Managed to spend quite a bit of time going over passing method references and data binding. 
 
-**Thoughts:**
+**Thoughts:** Will keep repeating sections until I really get it.
 
 **Link to work:**
 (https://github.com/cmulliss/100-days-of-code)
@@ -513,9 +513,9 @@ Missing my code today, but great day out!
 
 ### Day 45: Sunday 11 March, 2018
 
-**Today's Progress**:
+**Today's Progress**: Working on an assignment from the tutorial. Doing really well until I got to 2 way binding, then spent ages trying to get it to work. 
 
-**Thoughts:**
+**Thoughts:** Will go over the 2 way binding again tomorrow, hopefully starting fresh should help.
 
 **Link to work:**
 (https://github.com/cmulliss/100-days-of-code)
