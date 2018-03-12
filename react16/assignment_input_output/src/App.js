@@ -7,21 +7,18 @@ import "./App.css";
 
 class App extends Component {
   state = {
-    userName: "Motley"
+    username: "Motley"
   };
-  inputChangeHandler = (event) => {
-    this.setState({ userName: event.target.value });
+  changeUserNameHandler = (event) => {
+    this.setState({ username: event.target.value });
   };
-
   render() {
     return (
       <div>
-        <UserInput
-          changed={this.inputChangeHandler}
-          currentName={this.state.userName}
-        />
-        <UserOutput username="Mot" />
-        <UserOutput newUserName={this.state.userName} />
+        <UserInput changed={this.changeUserNameHandler} />
+        <UserOutput name="Me" />
+        <UserOutput currentName={this.state.username} />
+        <UserOutput />
       </div>
     );
   }
