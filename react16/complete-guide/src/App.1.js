@@ -28,50 +28,36 @@ export default class App extends Component {
   // will get an event object, but still want to change
   // the state, need to pass nameChangedHandler to the
   // second person as props
-
   nameChangedHandler = (event) => {
     this.setState({
       persons: [
         { name: "Motley", age: 170 },
         { name: event.target.value, age: 7 },
         { name: "Feathers", age: 100 }
-      ],
-      otherstate: "some other value",
-      showPersons: false
-    });
-  };
-
-  togglePersonsHandler = () => {
-    const doesShow = this.state.showPersons;
-    this.setState({
-      showPersons: !doesShow
+      ]
     });
   };
   render() {
     return (
       <div className="App">
         <h1>I am a react app</h1>
-        <button className="myButton" onClick={this.togglePersonsHandler}>
-          Toggle Persons
-        </button>
-        <div>
-          <Person
-            name={this.state.persons[0].name}
-            age={this.state.persons[0].age}
-            click={this.switchNameHandler}
-          />
-          <Person
-            name={this.state.persons[1].name}
-            age={this.state.persons[1].age}
-            changed={this.nameChangedHandler}
-          />
-          <Person
-            name={this.state.persons[2].name}
-            age={this.state.persons[2].age}
-          >
-            My hobby is reading
-          </Person>
-        </div>
+        <button className="myButton" onClick={this.switchNameHandler}>Switch Name</button>
+        <Person
+          name={this.state.persons[0].name}
+          age={this.state.persons[0].age}
+          click={this.switchNameHandler}
+        />
+        <Person
+          name={this.state.persons[1].name}
+          age={this.state.persons[1].age}
+          changed={this.nameChangedHandler}
+        />
+        <Person
+          name={this.state.persons[2].name}
+          age={this.state.persons[2].age}
+        >
+          My hobby is reading
+        </Person>
       </div>
     );
   }

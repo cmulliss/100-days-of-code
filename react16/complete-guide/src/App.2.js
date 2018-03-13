@@ -40,7 +40,7 @@ export default class App extends Component {
       showPersons: false
     });
   };
-
+  // will use a ternary operator around Person list
   togglePersonsHandler = () => {
     const doesShow = this.state.showPersons;
     this.setState({
@@ -54,24 +54,26 @@ export default class App extends Component {
         <button className="myButton" onClick={this.togglePersonsHandler}>
           Toggle Persons
         </button>
-        <div>
-          <Person
-            name={this.state.persons[0].name}
-            age={this.state.persons[0].age}
-            click={this.switchNameHandler}
-          />
-          <Person
-            name={this.state.persons[1].name}
-            age={this.state.persons[1].age}
-            changed={this.nameChangedHandler}
-          />
-          <Person
-            name={this.state.persons[2].name}
-            age={this.state.persons[2].age}
-          >
-            My hobby is reading
-          </Person>
-        </div>
+        {this.state.showPersons === true ? (
+          <div>
+            <Person
+              name={this.state.persons[0].name}
+              age={this.state.persons[0].age}
+              click={this.switchNameHandler}
+            />
+            <Person
+              name={this.state.persons[1].name}
+              age={this.state.persons[1].age}
+              changed={this.nameChangedHandler}
+            />
+            <Person
+              name={this.state.persons[2].name}
+              age={this.state.persons[2].age}
+            >
+              My hobby is reading
+            </Person>
+          </div>
+        ) : null}
       </div>
     );
   }

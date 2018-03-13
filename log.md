@@ -524,9 +524,9 @@ Missing my code today, but great day out!
 
 ### Day 46: Monday 12 March, 2018
 
-**Today's Progress**:
+**Today's Progress**: Going over 2 way binding again. 
 
-**Thoughts:**
+**Thoughts:** Still confused, but hopefully it will become clearer tomorrow.
 
 **Link to work:**
 (https://github.com/cmulliss/100-days-of-code)
@@ -535,9 +535,9 @@ Missing my code today, but great day out!
 
 ### Day 47: Tuesday 13 March, 2018
 
-**Today's Progress**:
+**Today's Progress**: 2 way binding sorted out now, not sure about all the syntax of the methods, but expect practise needed. On to rendering content conditionally, will continue tomorrow.
 
-**Thoughts:**
+**Thoughts:** Is a steep learning curve, but really interesting.
 
 **Link to work:**
 (https://github.com/cmulliss/100-days-of-code)
