@@ -10,25 +10,6 @@ class Life extends Component {
   componentWillMount() {
     console.log("before render, componentWillMount");
   }
-  componentWillUpdate() {
-    console.log("before update, componentWillUpdate");
-  }
-  componentDidUpdate() {
-    console.log("after update, componentDidUpdate");
-  }
-  // more confusing, receives 2 arguments
-  // will return true or false.  whenever we make
-  // an update on our app, it Will be checking the
-  // next state of props, or the next state of state
-  // can check previous and next state, and if don't want
-  // something to happen can use false, so does not update
-  // the render
-  shouldComponentUpdate(nextProps, nextState) {
-    //console.log(nextState);
-
-    return false;
-  }
-
   // 4. render jsx
   render() {
     console.log("RENDER");
@@ -36,15 +17,6 @@ class Life extends Component {
     return (
       <div>
         <h3>{this.state.title}</h3>
-        <button
-          onClick={() =>
-            this.setState({
-              title: "new title"
-            })
-          }
-        >
-          Click to change
-        </button>
       </div>
     );
   }

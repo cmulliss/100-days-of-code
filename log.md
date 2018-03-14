@@ -546,9 +546,9 @@ Missing my code today, but great day out!
 
 ### Day 48: Wednesday 14 March, 2018
 
-**Today's Progress**:
+**Today's Progress**: Conditional rendering started, but getting too confusing, so decided to revise routing and lifecycles.
 
-**Thoughts:**
+**Thoughts:** Rather than getting bogged down, best to switch to a different topic for a while. Strategy for not getting discouraged.
 
 **Link to work:**
 (https://github.com/cmulliss/100-days-of-code)
