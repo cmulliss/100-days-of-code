@@ -24,4 +24,4 @@ const Posts = () => {
   ];
 };
 export default Posts;
-// react 16 can return an array, as above
+// react 16 can return an array

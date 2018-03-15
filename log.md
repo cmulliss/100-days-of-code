@@ -480,7 +480,7 @@ Missing my code today, but great day out!
 
 ### Day 42: Thursday 8 March, 2018
 
-**Today's Progress**: Working through some basic react stuff again, including spread, rest, destructuring and primitive vs reference types. so I really get the hang of it. 
+**Today's Progress**: Working through some basic react stuff again, including spread, rest, destructuring and primitive vs reference types. so I really get the hang of it.
 
 **Thoughts:** Understanding more this time around, although still some areas of confusion.
 
@@ -502,7 +502,7 @@ Missing my code today, but great day out!
 
 ### Day 44: Saturday 10 March, 2018
 
-**Today's Progress**: Feeling better, but still a bit wobbly. Managed to spend quite a bit of time going over passing method references and data binding. 
+**Today's Progress**: Feeling better, but still a bit wobbly. Managed to spend quite a bit of time going over passing method references and data binding.
 
 **Thoughts:** Will keep repeating sections until I really get it.
 
@@ -513,7 +513,7 @@ Missing my code today, but great day out!
 
 ### Day 45: Sunday 11 March, 2018
 
-**Today's Progress**: Working on an assignment from the tutorial. Doing really well until I got to 2 way binding, then spent ages trying to get it to work. 
+**Today's Progress**: Working on an assignment from the tutorial. Doing really well until I got to 2 way binding, then spent ages trying to get it to work.
 
 **Thoughts:** Will go over the 2 way binding again tomorrow, hopefully starting fresh should help.
 
@@ -524,7 +524,7 @@ Missing my code today, but great day out!
 
 ### Day 46: Monday 12 March, 2018
 
-**Today's Progress**: Going over 2 way binding again. 
+**Today's Progress**: Going over 2 way binding again.
 
 **Thoughts:** Still confused, but hopefully it will become clearer tomorrow.
 
@@ -557,9 +557,9 @@ Missing my code today, but great day out!
 
 ### Day 49: Thursday 15 March, 2018
 
-**Today's Progress**:
+**Today's Progress**: Lifecycles, conditional rendering,PureComponents and returning arrays sections completed. Started higher order components.
 
-**Thoughts:**
+**Thoughts:** Streesful as iMac freezing randomly. Will make sure VSCode settings backed up tomorrow if possible.
 
 **Link to work:**
 (https://github.com/cmulliss/100-days-of-code)

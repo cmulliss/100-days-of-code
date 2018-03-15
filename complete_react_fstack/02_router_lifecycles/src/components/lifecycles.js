@@ -1,38 +1,22 @@
-import React, { Component } from "react";
+import React, { PureComponent } from "react";
 // react is going to do everything in steps
 // 1. get default props from ReactRouter
-class Life extends Component {
+class Life extends PureComponent {
   // 2. set default state
   state = {
     title: "Life Cycles"
   };
-  // 3. before render
-  componentWillMount() {
-    console.log("before render, componentWillMount");
-  }
-  componentWillUpdate() {
-    console.log("before update, componentWillUpdate");
-  }
-  componentDidUpdate() {
-    console.log("after update, componentDidUpdate");
-  }
-  // more confusing, receives 2 arguments
-  // will return true or false.  whenever we make
-  // an update on our app, it Will be checking the
-  // next state of props, or the next state of state
-  // can check previous and next state, and if don't want
-  // something to happen can use false, so does not update
-  // the render
-  shouldComponentUpdate(nextProps, nextState) {
-    //console.log(nextState);
-
-    return false;
-  }
-
-  // 4. render jsx
+  /* shouldComponentUpdate(nextProps, nextState) {
+    // new state is nexState & this.state.title
+    // is original state.but not efficient
+    // but use pure components instead
+    if (nextState.title === this.state.title) {
+      return false;
+    }
+    return true;
+  } */
   render() {
-    console.log("RENDER");
-    console.log(this.props);
+    console.log("render");
     return (
       <div>
         <h3>{this.state.title}</h3>
@@ -48,18 +32,15 @@ class Life extends Component {
       </div>
     );
   }
-  //5. after render, after jsx
-  componentDidMount() {
-    console.log("after render, componentDidMount");
-    document.querySelector("h3").style.color = "red";
-  }
 }
 export default Life;
-/*  document.querySelector('h3').style.color = 'red'
-render is a default method from react
-so, before render can use built in method
-componentWillMount() gets called before render
-lifecycles run by default 
-PureComponent is checking state, unless a real
-change inside state will do nothing.
+/* pure compoenents, need to understand which
+problems pure components solve. Re renders despite
+same value for title, this is the problem. With
+pure components we can detect if the state changes, 
+wull rerender, if not will not rerender. Could
+do this with shouldCompoentUpdate, manually
+PureComponent checks state, so don't need 
+shouldComponentUpdate, to prevent rerendering. Why 
+reload the whold app, if state is the same?
 */

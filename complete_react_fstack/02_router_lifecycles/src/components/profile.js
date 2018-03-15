@@ -1,5 +1,7 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from "react";
+import { Link } from "react-router-dom";
+
+import Card from "../hocs/card";
 
 //BrowserRouter is going to give props with all the
 //info about the routes and whatever you are using
@@ -8,23 +10,26 @@ import { Link } from 'react-router-dom';
 
 // create a redirect fn, needs to be returned to run
 // got lot of stuff in props, so can use history
-// push back to "/", is executing fn (below) and 
+// push back to "/", is executing fn (below) and
 // changing the history of the browser
 
-const Profile = (props) =>  {
-    
-    const redir = () => {
-        //props.history.push('/')
-    }
+const Profile = (props) => {
+  const redir = () => {
+    //props.history.push('/')
+  };
 
-    console.log(props);
+  console.log(props);
 
-    return(
-        <div>
-        <Link to={{
-            pathname: `${props.match.url}/posts`
-        }}>Take me to /profile/posts</Link>
-        </div>
-    )
-}
+  return (
+    <Card>
+      <Link
+        to={{
+          pathname: `${props.match.url}/posts`
+        }}
+      >
+        Take me to /profile/posts
+      </Link>
+    </Card>
+  );
+};
 export default Profile;
