@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## Reactjs
+
 ### Day 0: Thursday January 25, 2018
 
 **Today's Progress**: Working on ReactJS Survey App. Problem with tutorial using refs, which are deprecated. Managed to partly fix this with by adding placeholder to the constuctor, then adding this to the input:
@@ -11,7 +13,7 @@
 Will do something else for a while, and then go back to this.
 **Thoughts:**
 Annoying when a tutorial is slightly out of date, but guess it is difficult to keep up with all the rapid changes.
-**Link to work:** [Survey App](https://github.com/cmulliss/100-days-of-code)
+**Link to work:** [Survey App]<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -22,7 +24,7 @@ Annoying when a tutorial is slightly out of date, but guess it is difficult to k
 **Thoughts:** Frustrating, but also interesting trying to work around a slightly? out of date tutorial, using deprecated refs. Got part way, but left it for now to work through the nice fat 'Fullstack React' book! Doing the voting app.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -42,7 +44,7 @@ Now know:
 **Thoughts:** Get a bit lost about where all the methods go, as they are created. Seem to have methods and consts eveywhere. Keep going and go back to earlier stages of tutorials and go through the explanations again.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -54,7 +56,7 @@ Now know:
 Missing my code today, but great day out!
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -65,7 +67,7 @@ Missing my code today, but great day out!
 **Thoughts:** Challenging, problem is remembering everything ...
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -76,7 +78,7 @@ Missing my code today, but great day out!
 **Thoughts:** About 3 hours today. Making lots of notes and going over same bits until they make sense.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -87,7 +89,7 @@ Missing my code today, but great day out!
 **Thoughts:** A bit lost on multiple levels of callback, but guess some more practise needed.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -98,7 +100,7 @@ Missing my code today, but great day out!
 **Thoughts:** Understanding a bit more all the time, seems slow progress, but will keep going!
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -111,7 +113,7 @@ Missing my code today, but great day out!
 * Really liked Alexander Kallaway's comments on 'small victories'
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code) and (https://github.com/cmulliss/react-10-apps)
+<https://github.com/cmulliss/100-days-of-code> and <https://github.com/cmulliss/react-10-apps>
 
 ---
 
@@ -122,7 +124,7 @@ Missing my code today, but great day out!
 **Thoughts:** Seems like slow progress, but getting there by small steps. Fun to do!
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -133,7 +135,7 @@ Missing my code today, but great day out!
 **Thoughts:** Small steps again, and consolidating existing knowledge.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -144,7 +146,7 @@ Missing my code today, but great day out!
 **Thoughts:** Finding a good, up to date tutorial (using es6) really paying off. So enjoyable having trouble stopping!
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -155,7 +157,7 @@ Missing my code today, but great day out!
 **Thoughts:** Tutor suggests using this learning to write one's own app. Will go through the final section again and then have a go at this.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -166,7 +168,7 @@ Missing my code today, but great day out!
 **Thoughts:** Will do more tomorrow to make up.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -177,7 +179,7 @@ Missing my code today, but great day out!
 **Thoughts:** Difficult to concentrate when tired, as didn't sleep well lastg night. Still managed to catch up from yesterday though.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -188,7 +190,7 @@ Missing my code today, but great day out!
 **Thoughts:** Not a problem as I can catch up tomorrow.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -199,7 +201,7 @@ Missing my code today, but great day out!
 **Thoughts:** Still a bit confused about 'filter', but will go over it again later, and try my own version of the app.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -210,7 +212,7 @@ Missing my code today, but great day out!
 **Thoughts:** Fun, but a lot of new things to remember. I will go through this all again.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -221,7 +223,7 @@ Missing my code today, but great day out!
 **Thoughts:** This is fun!
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -232,7 +234,7 @@ Missing my code today, but great day out!
 **Thoughts:** Driven mad by our slowwwww.... broadband, lucky if we get 0.3Mbps, due to get fibre in the next month or so, can hardly wait. Does make working very difficult. Is a case of npm whatever command, go make another coffee while you wait, and repeat.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -243,7 +245,7 @@ Missing my code today, but great day out!
 **Thoughts:** Realising I need to update my CSS knowledge as tutorial is doing cool css stuff I hadn't come across.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -254,7 +256,7 @@ Missing my code today, but great day out!
 **Thoughts:** Getting quite obsessive. As soon as I arrive home spending as much time as possible on this, just stopping to do essential household stuff.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -265,7 +267,7 @@ Missing my code today, but great day out!
 **Thoughts:** Getting a bit lost as tutorial progresses. Seems to be a tendency for the tutorials to start off well, going step by step, then suddenly to accelerate and drop loads of new concepts in without much explanation.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -276,7 +278,7 @@ Missing my code today, but great day out!
 **Thoughts:** Really enjoying this today. Hope tutorial continues to be as helpful.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -287,7 +289,7 @@ Missing my code today, but great day out!
 **Thoughts:** Still getting a bit confused by multiple levels on props, but will go over this again.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -298,7 +300,7 @@ Missing my code today, but great day out!
 **Thoughts:** I will continue with the tutorial and see if this basic stuff starts to consolidate.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -309,7 +311,7 @@ Missing my code today, but great day out!
 **Thoughts:** Will leave css modules for now as don't want to mess with all the hidden configuration files at this stage. Rather like glamor though.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -320,7 +322,7 @@ Missing my code today, but great day out!
 **Thoughts:** Need to go back over filtering and routing tomorrow. Interesting although not clear over reason for using search within link.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -331,7 +333,7 @@ Missing my code today, but great day out!
 **Thoughts:** Will need to revisit filtering again and continue with Routing.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -342,7 +344,7 @@ Missing my code today, but great day out!
 **Thoughts:** More of the basics beginning to make sense. Getting better at ES6 too. Need to go over more of the basics though.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -353,7 +355,7 @@ Missing my code today, but great day out!
 **Thoughts:** Some days really happy with progress, other days quite frustrated. Need to keep a positive attitude and not get discouraged on the difficult days!
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -364,7 +366,7 @@ Missing my code today, but great day out!
 **Thoughts:** Slow progress, but getting there. Will go over 'map' tomorrow.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -375,7 +377,7 @@ Missing my code today, but great day out!
 **Thoughts:** Think I am rather impatient, want to understand it all instantly! In fact need to just keep practising.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -386,7 +388,7 @@ Missing my code today, but great day out!
 **Thoughts:** Book is good, but prefer the video tutorials.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -397,7 +399,7 @@ Missing my code today, but great day out!
 **Thoughts:** Will do a bit more of this and then maybe back to video tutorials
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -408,7 +410,7 @@ Missing my code today, but great day out!
 **Thoughts:** Will complete this tomorrow, hopefully.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -419,7 +421,7 @@ Missing my code today, but great day out!
 **Thoughts:** Will go over the Redux section again tomorrow as lots of new concepts.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -430,7 +432,7 @@ Missing my code today, but great day out!
 **Thoughts:** Wow! Complicated and interesting. Will continue for now and decide whether to switch to the other tutorial and go back to routing for light relief.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -441,7 +443,7 @@ Missing my code today, but great day out!
 **Thoughts:** Good idea to make progress with something, so moving back to Routing and leaving Redux for now works for me, less likely to get discouraged. Will go back to Redux later.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -452,7 +454,7 @@ Missing my code today, but great day out!
 **Thoughts:** Lots of new things to remember and determined not to be overwhelmed by Redux when I get back to it.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -463,7 +465,7 @@ Missing my code today, but great day out!
 **Thoughts:** As usual will need to go through some of this again, actually most of it!
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -474,7 +476,7 @@ Missing my code today, but great day out!
 **Thoughts:** Frustrating when stuff just doesn't work and can't work out quite why!
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -485,7 +487,7 @@ Missing my code today, but great day out!
 **Thoughts:** Understanding more this time around, although still some areas of confusion.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -496,7 +498,7 @@ Missing my code today, but great day out!
 **Thoughts:** Wil add an additional day on to the end!
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -507,7 +509,7 @@ Missing my code today, but great day out!
 **Thoughts:** Will keep repeating sections until I really get it.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -518,7 +520,7 @@ Missing my code today, but great day out!
 **Thoughts:** Will go over the 2 way binding again tomorrow, hopefully starting fresh should help.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -529,7 +531,7 @@ Missing my code today, but great day out!
 **Thoughts:** Still confused, but hopefully it will become clearer tomorrow.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -540,7 +542,7 @@ Missing my code today, but great day out!
 **Thoughts:** Is a steep learning curve, but really interesting.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -551,7 +553,7 @@ Missing my code today, but great day out!
 **Thoughts:** Rather than getting bogged down, best to switch to a different topic for a while. Strategy for not getting discouraged.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -562,7 +564,7 @@ Missing my code today, but great day out!
 **Thoughts:** Streesful as iMac freezing randomly. Will make sure VSCode settings backed up tomorrow if possible.
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -573,7 +575,7 @@ Missing my code today, but great day out!
 **Thoughts:**
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
@@ -584,70 +586,70 @@ Missing my code today, but great day out!
 **Thoughts:**
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
-### Day : March, 2018
+### Day52 : Sunday March 18, 2018
 
 **Today's Progress**:
 
 **Thoughts:**
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
-### Day : March, 2018
+### Day 53: March, 2018
 
 **Today's Progress**:
 
 **Thoughts:**
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
-### Day : March, 2018
+### Day 54: March, 2018
 
 **Today's Progress**:
 
 **Thoughts:**
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
-### Day : March, 2018
+### Day 55: March, 2018
 
 **Today's Progress**:
 
 **Thoughts:**
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
-### Day : March, 2018
+### Day 56: March, 2018
 
 **Today's Progress**:
 
 **Thoughts:**
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
 
 ---
 
-### Day : March, 2018
+### Day 57: March, 2018
 
 **Today's Progress**:
 
 **Thoughts:**
 
 **Link to work:**
-(https://github.com/cmulliss/100-days-of-code)
+<https://github.com/cmulliss/100-days-of-code>
