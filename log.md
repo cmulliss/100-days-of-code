@@ -570,9 +570,9 @@ Missing my code today, but great day out!
 
 ### Day 50: Friday 16 March, 2018
 
-**Today's Progress**:
+**Today's Progress**: VSCode, all extensions and workplace settings backed up and synced across both desktop and macbook air. Continued with HOCs today, will need some more work tomorrow as seem really complicated.
 
-**Thoughts:**
+**Thoughts:** Good feeling having VSCode backed up, particularly as iMac is showing signs of crankiness. 
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
