@@ -14,6 +14,7 @@ import Profile from "./components/profile";
 import PostItem from "./components/post_item";
 import Life from "./components/lifecycles";
 import Conditional from "./components/conditional";
+import User from "./components/user";
 // wrap everything in BrowserRouter tag
 // each Route has a path
 //NavLinks in header
@@ -50,6 +51,8 @@ const App = () => {
           <NavLink to="/lifecycles">Life Cycles</NavLink>
           <br />
           <NavLink to="/conditional">Conditional</NavLink>
+          <br />
+          <NavLink to="/user">User</NavLink>
           <hr />
         </header>
         <Switch>
@@ -58,6 +61,7 @@ const App = () => {
           <Route path="/posts/:id/:username" component={PostItem} />
           <Route path="/posts" component={Posts} />
           <Route path="/profile" component={Profile} />
+          <Route path="/user" component={User} />
           <Route exact path="/" component={Home} />
           <Route render={() => <h3>oops, 404 not found!</h3>} />
         </Switch>

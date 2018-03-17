@@ -1,7 +1,9 @@
 import React from "react";
 
+import userHoc from "../hocs/userHoc";
+
 const User = () => {
   return <div>User 1</div>;
 };
 
-export default User;
+export default userHoc(User, "Hello");

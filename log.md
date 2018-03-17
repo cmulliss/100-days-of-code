@@ -581,9 +581,9 @@ Missing my code today, but great day out!
 
 ### Day 51: Saturday 17 March, 2018
 
-**Today's Progress**:
+**Today's Progress**: Some work on HOCs again, then Redux.
 
-**Thoughts:**
+**Thoughts:** Easy to feel overwhelmed by realisation of just how much there is to learn. Don't panic!
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
