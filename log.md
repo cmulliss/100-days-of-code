@@ -592,9 +592,9 @@ Missing my code today, but great day out!
 
 ### Day52 : Sunday March 18, 2018
 
-**Today's Progress**:
+**Today's Progress**: More Redux. 
 
-**Thoughts:**
+**Thoughts:** Getting some of this, but quite confused. Will switch to a different tutorial to see is a different approach helps.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
