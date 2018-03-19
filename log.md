@@ -603,9 +603,9 @@ Missing my code today, but great day out!
 
 ### Day 53: March, 2018
 
-**Today's Progress**:
+**Today's Progress**: Revising some basic stuff again.
 
-**Thoughts:**
+**Thoughts:** It does help going over stuff again, encouraging to find I understand more than the first time.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

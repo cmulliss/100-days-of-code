@@ -1,0 +1,17 @@
+import React from "react";
+
+const Banner = () => {
+  return (
+    <div className="banner">
+      banner
+      <div className="main_cover">
+        <div className="logo">MUSIC-DB</div>
+      </div>
+      <span />
+    </div>
+  );
+};
+
+export default Banner;
+
+// receives no props, so just return some jsx
