@@ -1,13 +1,46 @@
 import React from "react";
+// to be able to use links
+import { Link } from "react-router-dom";
 
+// whenever rendering this list, going
+// to grab the props and pass in 'return'
+// fn will be called list
 const ArtistList = (props) => {
-  console.log(props);
-  return <div>artist list</div>;
+  // whenever we trigger this fn we are passing
+  // props, we get an object with all the artists
+  const list = ({ allArtists }) => {
+    if (allArtists) {
+      return allArtists.map((item) => {
+        const style = {
+          background: `url('/images/covers/${item.cover}')`
+        };
+
+        return (
+          <Link key={item.id} to={`/artist/${item.id}`} className="artist_item">
+            Item
+          </Link>
+        );
+      });
+    }
+  };
+
+  return (
+    <div className="artists_list">
+      <h4>Browse the artists</h4>
+      {list(props)}
+    </div>
+  );
 };
 
 export default ArtistList;
 
 /*
+We made a request to an API and got the list of 
+artists, then once we have got the list we are 
+passing it on as props. 
+This list is going to receive some data from Home,
+pass some props to render the list
+
 Want to display the list, so need to trigger a fn,
 'list' and pass props to it, so can grab the list 
 of users from it. Whenever we trigger this fn, we are 

@@ -9,12 +9,23 @@ class Home extends Component {
   state = {
     artists: ""
   };
-
+  componentDidMount() {
+    fetch(URL_ARTISTS, {
+      method: "GET"
+    })
+      .then((response) => response.json())
+      .then((json) => {
+        //console.log(json);
+        this.setState({
+          artists: json
+        });
+      });
+  }
   render() {
     return (
       <div>
         <Banner />
-        <ArtistsList>xx</ArtistsList>
+        <ArtistsList allArtists={this.state.artists} />
       </div>
     );
   }

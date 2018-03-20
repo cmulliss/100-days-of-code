@@ -572,7 +572,7 @@ Missing my code today, but great day out!
 
 **Today's Progress**: VSCode, all extensions and workplace settings backed up and synced across both desktop and macbook air. Continued with HOCs today, will need some more work tomorrow as seem really complicated.
 
-**Thoughts:** Good feeling having VSCode backed up, particularly as iMac is showing signs of crankiness. 
+**Thoughts:** Good feeling having VSCode backed up, particularly as iMac is showing signs of crankiness.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -592,7 +592,7 @@ Missing my code today, but great day out!
 
 ### Day52 : Sunday March 18, 2018
 
-**Today's Progress**: More Redux. 
+**Today's Progress**: More Redux.
 
 **Thoughts:** Getting some of this, but quite confused. Will switch to a different tutorial to see is a different approach helps.
 
@@ -601,7 +601,7 @@ Missing my code today, but great day out!
 
 ---
 
-### Day 53: March, 2018
+### Day 53: March 19, 2018
 
 **Today's Progress**: Revising some basic stuff again.
 
@@ -612,7 +612,18 @@ Missing my code today, but great day out!
 
 ---
 
-### Day 54: March, 2018
+### Day 54: March 20, 2018
+
+**Today's Progress**: Continuing with tutorial, using json server and API calls.
+
+**Thoughts:** Very tired following work today. Difficult to concentrate, will start fresh tomorrow aftenoon.
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 55: March 21, 2018
 
 **Today's Progress**:
 
@@ -623,18 +634,7 @@ Missing my code today, but great day out!
 
 ---
 
-### Day 55: March, 2018
-
-**Today's Progress**:
-
-**Thoughts:**
-
-**Link to work:**
-<https://github.com/cmulliss/100-days-of-code>
-
----
-
-### Day 56: March, 2018
+### Day 56: March 22, 2018
 
 **Today's Progress**:
 
