@@ -1,8 +1,17 @@
 import React, { Component } from "react";
 
-const Artist = () => {
-  return <div>artist</div>;
-};
+//import header
+import Header from "./header";
+
+class Artist extends Component {
+  render() {
+    return (
+      <div>
+        <Header>header</Header>
+      </div>
+    );
+  }
+}
 
 export default Artist;
 

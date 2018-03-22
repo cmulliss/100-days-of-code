@@ -3,7 +3,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 // whenever rendering this list, going
-// to grab the props and pass in 'return'
+// to grab the props, from home, and pass in 'return'
 // fn will be called list
 const ArtistList = (props) => {
   // whenever we trigger this fn we are passing
@@ -12,11 +12,17 @@ const ArtistList = (props) => {
     if (allArtists) {
       return allArtists.map((item) => {
         const style = {
-          background: `url('/images/covers/${item.cover}')`
+          background: `url('/images/covers/${item.cover}.jpg') no-repeat`
         };
 
         return (
-          <Link key={item.id} to={`/artist/${item.id}`} className="artist_item">
+          <Link
+            key={item.id}
+            to={`/artist/${item.id}`}
+            className="artist_item"
+            style={style}
+          >
+            <div>{item.name}</div>
             Item
           </Link>
         );

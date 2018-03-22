@@ -601,7 +601,7 @@ Missing my code today, but great day out!
 
 ---
 
-### Day 53: March 19, 2018
+### Day 53: Monday March 19, 2018
 
 **Today's Progress**: Revising some basic stuff again.
 
@@ -612,7 +612,7 @@ Missing my code today, but great day out!
 
 ---
 
-### Day 54: March 20, 2018
+### Day 54: Tuesday March 20, 2018
 
 **Today's Progress**: Continuing with tutorial, using json server and API calls.
 
@@ -623,7 +623,29 @@ Missing my code today, but great day out!
 
 ---
 
-### Day 55: March 21, 2018
+### Day 55: Wedneday March 21, 2018
+
+**Today's Progress**: Unwell today so no code, will add a second day on to the end.
+
+**Thoughts:** Sometimes just can't work, need to look after oneself!
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 56: Thurdsday March 22, 2018
+
+**Today's Progress**: Back to the tutorial assignment.
+
+**Thoughts:** Good to get back to it.
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 57: Friday March 23, 2018
 
 **Today's Progress**:
 
@@ -634,7 +656,7 @@ Missing my code today, but great day out!
 
 ---
 
-### Day 56: March 22, 2018
+### Day 58: Saturday March 24, 2018
 
 **Today's Progress**:
 
@@ -645,7 +667,106 @@ Missing my code today, but great day out!
 
 ---
 
-### Day 57: March, 2018
+### Day 59: Sunday March 25, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 60: Monday March 26, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 61: Tuesday March 27, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 62: Wednesday March 28, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 63: Thursday March 29, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 64: Friday March 30, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 65: Saturday March 31, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 66: Sunday April 1, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 67: Monday April 2, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 68: Tuesday April 3, 2018
 
 **Today's Progress**:
 
