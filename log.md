@@ -647,9 +647,9 @@ Missing my code today, but great day out!
 
 ### Day 57: Friday March 23, 2018
 
-**Today's Progress**:
+**Today's Progress**: Got quite lost with the tutorial assignment, so left it for now. Went on to doing proptypes, much better! Then refs, complete with injunction to not actually use them as alter DOM directly, which is undesirable, like mutating state, I guess.
 
-**Thoughts:**
+**Thoughts:** Definitely learning to switch topics or tutorials if getting bogged down. Otherwise risk getting discouraged.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

@@ -10,8 +10,8 @@ const ArtistList = (props) => {
   // props, we get an object with all the artists
   const list = ({ allArtists }) => {
     if (allArtists) {
-      return allArtists.map((item) => {
-        const style = {
+      return allArtists.map(function(item) {
+        const stlyes = {
           background: `url('/images/covers/${item.cover}.jpg') no-repeat`
         };
 
@@ -20,10 +20,9 @@ const ArtistList = (props) => {
             key={item.id}
             to={`/artist/${item.id}`}
             className="artist_item"
-            style={style}
+            style={stlyes}
           >
             <div>{item.name}</div>
-            Item
           </Link>
         );
       });
