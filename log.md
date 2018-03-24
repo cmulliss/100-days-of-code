@@ -658,9 +658,9 @@ Missing my code today, but great day out!
 
 ### Day 58: Saturday March 24, 2018
 
-**Today's Progress**:
+**Today's Progress**: Going over HOCs and proptypes again. Seems to be coming together better. Will continue with this tutorial tomorrow.
 
-**Thoughts:**
+**Thoughts:** Going from really discouraged to distinctly happier today, feeling less overwhelmed. 
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

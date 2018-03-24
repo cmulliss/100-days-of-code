@@ -5,7 +5,7 @@ const Card = (props) => {
   const style = {
     background: "lightgrey"
   };
-
+  // receiving props, returning a div
   return <div style={style}>{props.children}</div>;
 };
 

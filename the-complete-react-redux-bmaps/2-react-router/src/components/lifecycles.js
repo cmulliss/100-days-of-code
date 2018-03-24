@@ -5,18 +5,18 @@ class Life extends PureComponent {
 
   // 2 set default state
   state = {
-    title: "Life cycles"
+    title: "Life cycles",
+    body: "some more text"
   };
+  // 3 before render
+  componentWillMount() {
+    console.log("3 before render, before component gets created");
+  }
 
   // // 5 after render
   // componentDidMount(){
   //     console.log('5 after render')
   //     document.querySelector('h3').style.color = 'red'
-  // }
-
-  // // 3 before render
-  // componentWillMount(){
-  //     console.log('3 before render');
   // }
 
   // componentWillUpdate(){
