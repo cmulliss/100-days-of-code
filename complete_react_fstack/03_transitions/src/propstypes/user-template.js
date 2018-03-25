@@ -6,14 +6,28 @@ const UserTemplate = (props) => {
   return <div>user template</div>;
 };
 
+// oneOfType to check for an array
+// custom, see mother, 3 args
 UserTemplate.propTypes = {
-  name: PropTypes.string,
-  lastname: PropTypes.string,
-  age: PropTypes.number,
-  hobbies: PropTypes.array,
+  name: PropTypes.oneOf(["Motley", "Cherry"]),
+  lastname: PropTypes.oneOfType([
+    PropTypes.string,
+    PropTypes.oneOf(["Penguin", "Me"])
+  ]),
+  age: PropTypes.number.isRequired,
+  hobbies: PropTypes.arrayOf(PropTypes.string),
   spanish: PropTypes.bool,
   message: PropTypes.func,
-  car: PropTypes.object
+  car: PropTypes.object,
+  mother: function(props, propName, componentName) {
+    //console.log(props, propName, componentName);
+    if (props[propName] !== "Sue") {
+      // console.log("No");
+      return new Error(
+        `The name is ${props[propName]} is incorrect. Should be Susan`
+      );
+    }
+  }
 };
 
 export default UserTemplate;

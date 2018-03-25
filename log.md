@@ -669,9 +669,9 @@ Missing my code today, but great day out!
 
 ### Day 59: Sunday March 25, 2018
 
-**Today's Progress**:
+**Today's Progress**: Completed PropTypes section and moved on to Redux. 
 
-**Thoughts:**
+**Thoughts:** Redux going better this time, although still confusing.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

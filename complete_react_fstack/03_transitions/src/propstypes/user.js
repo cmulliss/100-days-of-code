@@ -1,15 +1,16 @@
 import React, { Component } from "react";
-
 // passing props to this child component
 import UserTemplate from "./user-template";
 
 export default class User extends Component {
   state = {
     name: "Motley",
-    lastName: "Penguin",
+    lastName: 22,
     age: 11,
     hobbies: ["run", "read", "code"],
     spanish: false,
+    mother: "Sue",
+    color: "red",
     message() {
       console.log("Hi");
     },
@@ -18,9 +19,19 @@ export default class User extends Component {
       model: "Focus"
     }
   };
+  changeColor() {
+    this.setState({
+      color: "blue"
+    });
+  }
   render() {
+    const style = {
+      color: this.state.color
+    };
     return (
       <div>
+        <h4 style={style}>{this.state.mother}</h4>
+        <div onClick={() => this.changeColor()}>Change Color</div>
         <UserTemplate {...this.state} />
       </div>
     );
