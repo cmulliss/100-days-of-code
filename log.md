@@ -680,9 +680,9 @@ Missing my code today, but great day out!
 
 ### Day 60: Monday March 26, 2018
 
-**Today's Progress**:
+**Today's Progress**: More Redux, getting further, but will need to go over this at least once more.
 
-**Thoughts:**
+**Thoughts:** Good tutorial, just a lot to learn. Day 60 already, hoped to be further along.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
