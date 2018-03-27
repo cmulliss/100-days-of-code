@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 
+// to avoid errors as state is null at start, so
+//return early forom the render fn
 class BookDetail extends Component {
   render() {
     if (!this.props.book) {

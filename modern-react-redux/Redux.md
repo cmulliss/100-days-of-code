@@ -6,7 +6,7 @@
 
 * reducers form application state
 * reducers all get tied together by 'combineReducers' in the reducers/index.js file
-* for each key in our combineReducers object, we assingn one reducer
+* for each key in our combineReducers object, we assign one reducer
 * and that reducer is responsible for creating this piece of state
 * our reducers are in charge of changing our application state over time by the use of actions
 * so whenever an action is dispatched it flows through all the different reducers in our application

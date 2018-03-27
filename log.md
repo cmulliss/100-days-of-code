@@ -691,9 +691,9 @@ Missing my code today, but great day out!
 
 ### Day 61: Tuesday March 27, 2018
 
-**Today's Progress**:
+**Today's Progress**: Axios and Redux promises today. Going better than expected.
 
-**Thoughts:**
+**Thoughts:** Still not got a good grasp of this, but understanding the basics much better than expected. Cerainly finding it very interesting.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
