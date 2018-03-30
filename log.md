@@ -660,7 +660,7 @@ Missing my code today, but great day out!
 
 **Today's Progress**: Going over HOCs and proptypes again. Seems to be coming together better. Will continue with this tutorial tomorrow.
 
-**Thoughts:** Going from really discouraged to distinctly happier today, feeling less overwhelmed. 
+**Thoughts:** Going from really discouraged to distinctly happier today, feeling less overwhelmed.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -669,7 +669,7 @@ Missing my code today, but great day out!
 
 ### Day 59: Sunday March 25, 2018
 
-**Today's Progress**: Completed PropTypes section and moved on to Redux. 
+**Today's Progress**: Completed PropTypes section and moved on to Redux.
 
 **Thoughts:** Redux going better this time, although still confusing.
 
@@ -702,9 +702,9 @@ Missing my code today, but great day out!
 
 ### Day 62: Wednesday March 28, 2018
 
-**Today's Progress**:
+**Today's Progress**: Out all day and travelling. Back late so will add another day to end of 100 days.
 
-**Thoughts:**
+**Thoughts:** Missed my code, but good to go visiting family.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -713,9 +713,9 @@ Missing my code today, but great day out!
 
 ### Day 63: Thursday March 29, 2018
 
-**Today's Progress**:
+**Today's Progress**: Going over Redux middleware etc again.
 
-**Thoughts:**
+**Thoughts:** Will keep going over this until it's clear.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -724,9 +724,9 @@ Missing my code today, but great day out!
 
 ### Day 64: Friday March 30, 2018
 
-**Today's Progress**:
+**Today's Progress**: More Redux, this is quite a long section in the turorial. Continues the weather tutorial.
 
-**Thoughts:**
+**Thoughts:** Definitely getting more of this. Good plan to repeat previous sections to help consolidate learning.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

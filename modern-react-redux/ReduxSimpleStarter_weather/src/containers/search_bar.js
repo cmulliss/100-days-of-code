@@ -24,6 +24,7 @@ class SearchBar extends Component {
   // need POST request instead
   // we need to go and fetch weather data
   // via this.props.fetchWeather inside component
+  // onFormSubmit is a callback, need to bind
   onFormSubmit(event) {
     event.preventDefault();
     this.props.fetchWeather(this.state.term);
@@ -57,5 +58,5 @@ function mapDispatchToProps(dispatch) {
 
 export default connect(null, mapDispatchToProps)(SearchBar);
 /*
-using a controlled compoenent
+using a controlled component
 */
