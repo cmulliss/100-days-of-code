@@ -16,6 +16,7 @@ export function fetchWeather(city) {
   const request = axios.get(url);
   // action creators have to return an action,
   // an action is an object that always has to return a type
+  //console.log("Request:", request);
   return {
     type: FETCH_WEATHER,
     payload: request

@@ -16,3 +16,5 @@
 * actions must always have a type defined
 * they can optionally have a payload or any other number of properties
 * redux that's so simple, yes, but only simple once you actually understand what's going on.
+
+npm i --save react-sparklines@1.6.0

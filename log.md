@@ -735,9 +735,9 @@ Missing my code today, but great day out!
 
 ### Day 65: Saturday March 31, 2018
 
-**Today's Progress**:
+**Today's Progress**: Continued with some Redux, confused so going over earlier work again.
 
-**Thoughts:**
+**Thoughts:** Redux is very complicated. Will help to leave it for a bit and continue with some of the other React topics.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
