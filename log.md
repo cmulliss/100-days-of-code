@@ -746,9 +746,9 @@ Missing my code today, but great day out!
 
 ### Day 66: Sunday April 1, 2018
 
-**Today's Progress**:
+**Today's Progress**: Countdown timer tutorial, including state, props, lifecycle methods and so on. Next is an assignment, will have a go at this tomorrow. Introduction to React-bootstrap too.
 
-**Thoughts:**
+**Thoughts:** Will be interesting to see how I get on with the assignment. Will plan it out carefully.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
