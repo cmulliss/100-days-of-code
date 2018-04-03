@@ -1,14 +1,14 @@
 import React, { Component } from "react";
-import { Form, FormControl, Button } from "react-bootstrap";
 
-import Clock from "./clock";
+import CountdownTimer from "./countdown";
 import "./app.css";
 
 class App extends Component {
   state = {
-    deadline: "December 25, 2018",
-    newDeadline: ""
+    deadline: "25 December 2018",
+    newDeadline: "7 June 2018"
   };
+
   changeDeadline() {
     console.log("state", this.state);
     this.setState({ deadline: this.state.newDeadline });
@@ -16,21 +16,27 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="App-title">Countdown to {this.state.deadline}</div>
-        <Clock deadline={this.state.deadline} />
-        <Form inline>
-          <FormControl
-            className="Deadline-input"
-            placeholder="new date"
-            onChange={(event) =>
-              this.setState({ newDeadline: event.target.value })
-            }
-          />
-          <button onClick={() => this.changeDeadline()}>Submit</button>
-        </Form>
+        <div className="App-title">countdown to {this.state.deadline}</div>
+        <CountdownTimer
+          deadline={this.state.deadline}
+          newDeadline={this.state.newDeadline}
+        />
+        <input
+          placeholder="new date"
+          onChange={(event) =>
+            this.setState({ newDeadline: event.target.value })
+          }
+        />
+        <button onClick={() => this.changeDeadline()}>Submit</button>
       </div>
     );
   }
 }
 
 export default App;
+/*
+<input
+          placeholder="new date"
+          onChange={(event) => console.log("event", event.target.value)}
+        />
+*/

@@ -757,9 +757,9 @@ Missing my code today, but great day out!
 
 ### Day 67: Monday April 2, 2018
 
-**Today's Progress**:
+**Today's Progress**: Got stuck on stopwatch assignment.
 
-**Thoughts:**
+**Thoughts:** Going in circles so will go over earlier part of timer tutorial tomorrow.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -768,9 +768,9 @@ Missing my code today, but great day out!
 
 ### Day 68: Tuesday April 3, 2018
 
-**Today's Progress**:
+**Today's Progress**: Going over the earlier timer part of tutorial.
 
-**Thoughts:**
+**Thoughts:** Will do this again tomorrow if needed. Do understand more with each session, just not quite got it yet.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
