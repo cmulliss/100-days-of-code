@@ -9,7 +9,17 @@ class CountdownTimer extends Component {
     minutes: 0,
     seconds: 0
   };
-
+  // prevents infinite loop, just runs once
+  componentWillMount() {
+    this.getTimeUntil(this.props.deadline);
+  }
+  // runs after and allows us to keep updating timer
+  componentDidMount() {
+    setInterval(() => this.getTimeUntil(this.props.deadline), 1000);
+  }
+  leading0(num) {
+    return num < 10 ? "0" + num : num;
+  }
   getTimeUntil(deadline) {
     const time = Date.parse(deadline) - Date.parse(new Date());
     console.log("time", time);
@@ -17,21 +27,23 @@ class CountdownTimer extends Component {
     const minutes = Math.floor((time / 1000 / 60) % 60);
     const hours = Math.floor((time / (1000 * 60 * 60)) % 24);
     const days = Math.floor(time / (1000 * 60 * 60 * 24));
-    console.log("days", days, "seconds", seconds);
-    this.setState({ days: days });
+    this.setState({
+      // es6, if key and value the same can use one only
+      days,
+      hours,
+      minutes,
+      seconds
+    });
   }
 
   render() {
-    //this.getTimeUntil(this.props.deadline);
     console.log("this.props", this.props);
     return (
       <div>
-        <div>
-          <div className="clock">days: {this.state.days}</div>
-          <div className="clock">hours: {this.state.hours}</div>
-          <div className="clock">minutes: {this.state.minutes}</div>
-          <div className="clock">seconds: {this.state.seconds}</div>
-        </div>
+        <div className="clock">{this.leading0(this.state.days)} Days</div>
+        <div className="clock">{this.leading0(this.state.hours)} Hours</div>
+        <div className="clock">{this.leading0(this.state.minutes)} Minutes</div>
+        <div className="clock">{this.leading0(this.state.seconds)} Seconds</div>
       </div>
     );
   }
