@@ -790,9 +790,9 @@ Missing my code today, but great day out!
 
 ### Day 69: Thursday April 5, 2018
 
-**Today's Progress**:
+**Today's Progress**: Timer again, including using lifecycle method to avoid infinite loop.
 
-**Thoughts:**
+**Thoughts:** This will take a while. Only managed about an hour as power off for most of the day.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -801,9 +801,9 @@ Missing my code today, but great day out!
 
 ### Day 70: Friday April 6, 2018
 
-**Today's Progress**:
+**Today's Progress**: Going over basic concepts again.
 
-**Thoughts:**
+**Thoughts:** This is going to take some time.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

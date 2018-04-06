@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Form, FormControl, button } from "react-bootstrap";
 
 import CountdownTimer from "./countdown";
 import "./app.css";
@@ -21,13 +22,16 @@ class App extends Component {
           deadline={this.state.deadline}
           newDeadline={this.state.newDeadline}
         />
-        <input
-          placeholder="new date"
-          onChange={(event) =>
-            this.setState({ newDeadline: event.target.value })
-          }
-        />
-        <button onClick={() => this.changeDeadline()}>Submit</button>
+        <Form inline>
+          <FormControl
+            className="deadline-input"
+            placeholder="new date"
+            onChange={(event) =>
+              this.setState({ newDeadline: event.target.value })
+            }
+          />
+          <button onClick={() => this.changeDeadline()}>Submit</button>
+        </Form>
       </div>
     );
   }
