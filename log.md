@@ -812,9 +812,9 @@ Missing my code today, but great day out!
 
 ### Day 71: Saturday April 7, 2018
 
-**Today's Progress**:
+**Today's Progress**: More on the youtube search app.
 
-**Thoughts:**
+**Thoughts:** Going better, will continue tomorrow.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
