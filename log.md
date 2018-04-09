@@ -823,9 +823,9 @@ Missing my code today, but great day out!
 
 ### Day 72: Sunday April 8, 2018
 
-**Today's Progress**:
+**Today's Progress**: Back to youtube search, going over this again.
 
-**Thoughts:**
+**Thoughts:** Looking forward to having useable broadband, almost at a standstill today.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -834,9 +834,9 @@ Missing my code today, but great day out!
 
 ### Day 73: Monday April 9, 2018
 
-**Today's Progress**:
+**Today's Progress**: Making notes to help understand all the layers of props in this tutorial.
 
-**Thoughts:**
+**Thoughts:** Easier to do as today got our broadband updated. Cuts out all that hanging around waiting for stuff to update.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
