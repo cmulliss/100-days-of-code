@@ -6,17 +6,21 @@ class SearchBar extends Component {
   };
   render() {
     return (
-      <div>
+      <div className="search-bar">
         <input
           /* controlled component, controlled form element has it's values set by state, only changes when state changes, initial
           value is an empty string  */
           value={this.state.term}
-          placeholder="starting value"
-          onChange={(event) => this.setState({ term: event.target.value })}
+          placeholder="enter your search term here"
+          onChange={(event) => this.onInputChange(event.target.value)}
         />
         <p>value of the input: {this.state.term}</p>
       </div>
     );
+  }
+  onInputChange(term) {
+    this.setState({ term });
+    this.props.onSearchTermChange(term);
   }
 }
 export default SearchBar;

@@ -845,9 +845,9 @@ Missing my code today, but great day out!
 
 ### Day 74: Tuesday April 10, 2018
 
-**Today's Progress**:
+**Today's Progress**: Still working on the Youtube search. Learnt that 2 levels of callbacks is ideal maximum or gets too confusing.
 
-**Thoughts:**
+**Thoughts:** Need to be patient and stick with it!
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
