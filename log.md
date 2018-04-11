@@ -856,7 +856,7 @@ Missing my code today, but great day out!
 
 ### Day 75: Wednesday April 11, 2018
 
-**Today's Progress**:
+**Today's Progress**: 
 
 **Thoughts:**
 

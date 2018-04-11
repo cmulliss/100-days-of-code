@@ -31,7 +31,8 @@ class App extends Component {
       // this.setState(videos: videos)
     });
   }
-
+  // creates a version of the function that can only be run
+  // every 300ms
   render() {
     const videoSearch = _.debounce((term) => {
       this.videoSearch(term);
