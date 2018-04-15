@@ -856,9 +856,9 @@ Missing my code today, but great day out!
 
 ### Day 75: Wednesday April 11, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Continuing with Redux, going over code again.
 
-**Thoughts:**
+**Thoughts:** Understanding it a bit better, but very complicated.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -867,9 +867,9 @@ Missing my code today, but great day out!
 
 ### Day 76: Thursday April 12, 2018
 
-**Today's Progress**:
+**Today's Progress**: More redux, but code not working, so will redo this tomorrow.
 
-**Thoughts:**
+**Thoughts:** Frustrating when code doesn't work.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -878,9 +878,9 @@ Missing my code today, but great day out!
 
 ### Day 77: Friday April 13, 2018
 
-**Today's Progress**:
+**Today's Progress**: Redux again.
 
-**Thoughts:**
+**Thoughts:** Not much, just need to keep going.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -889,9 +889,9 @@ Missing my code today, but great day out!
 
 ### Day 78: Saturday April 14, 2018
 
-**Today's Progress**:
+**Today's Progress**: None as out today.
 
-**Thoughts:**
+**Thoughts:** Will add an additional day on to end again.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -900,9 +900,9 @@ Missing my code today, but great day out!
 
 ### Day 79: Sunday April 15, 2018
 
-**Today's Progress**:
+**Today's Progress**: Continuing with redux.
 
-**Thoughts:**
+**Thoughts:** Having trouble remembering this. Will keep going and hope it comes clear.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -1163,6 +1163,16 @@ Missing my code today, but great day out!
 ---
 
 ### Day 103: Wednesdy 9 May, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+---
+
+### Day 104: Thursday 10 May, 2018
 
 **Today's Progress**:
 
