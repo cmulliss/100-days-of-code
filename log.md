@@ -911,9 +911,9 @@ Missing my code today, but great day out!
 
 ### Day 80: Monday April 16, 2018
 
-**Today's Progress**:
+**Today's Progress**: Redux, getting the hang of reducers, and will move on to actions next.
 
-**Thoughts:**
+**Thoughts:** For some reason, won't compile. Needs a bit of a check through.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
