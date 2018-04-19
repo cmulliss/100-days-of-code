@@ -19,7 +19,7 @@
 
 npm i --save react-sparklines@1.6.0
 
-\*\* Review
+## Review
 
 * Redux constructs the app state,
 * react the views to display that state
@@ -37,9 +37,16 @@ npm i --save react-sparklines@1.6.0
 * by first importing the connect function from 'react-redux'
 * and then defined mapStateToProps, and we hooked our component together with this and using the connect function
 * we chose the component booklist to connect to the redux store because only booklist cares about the list of books
-* finally, made sure app rendered booklist <code><BookList/></code>
+* finally, made sure app rendered booklist
+
+```jsx
+<BookList />
+```
+
 * redux generated a state object that contained our books,
 * and then mapped that state as props to our component,
 * because the state was updated through our reducer
 * our component re rendered with that list of books
 * whenever application state changes the container will re render as well
+* a container is a component that gets bonded to the app state, and we connect or meld the 2 together
+* whenever the app state changes the container will re render too

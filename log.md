@@ -922,7 +922,7 @@ Missing my code today, but great day out!
 
 ### Day 81: Tuesday April 17, 2018
 
-**Today's Progress**:
+**Today's Progress**: 
 
 **Thoughts:**
 
@@ -944,9 +944,9 @@ Missing my code today, but great day out!
 
 ### Day 83: Thursday April 19, 2018
 
-**Today's Progress**:
+**Today's Progress**: Last 2 days, could not code due to excruciatingly painful neck, made sitting at computer impossible. Will add 2 more days on to the end. Today back to redux.
 
-**Thoughts:**
+**Thoughts:** Not a problem as some days have done several hours at a time.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
