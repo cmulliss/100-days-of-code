@@ -922,9 +922,9 @@ Missing my code today, but great day out!
 
 ### Day 81: Tuesday April 17, 2018
 
-**Today's Progress**: 
+**Today's Progress**: None
 
-**Thoughts:**
+**Thoughts:** 
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -933,7 +933,7 @@ Missing my code today, but great day out!
 
 ### Day 82: Wednesday April 18, 2018
 
-**Today's Progress**:
+**Today's Progress**: None
 
 **Thoughts:**
 
