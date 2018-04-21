@@ -22,35 +22,38 @@ class BookList extends Component {
       );
     });
   }
+
   render() {
-    return (
-      <div>
-        <ul className="list-group col-sm-4">{this.renderList()}</ul>
-      </div>
-    );
+    return <ul className="list-group col-sm-4">{this.renderList()}</ul>;
   }
 }
-/*first argument is state, and it returns an object
-which will be available to component as this.props
-take our app state as an argument, our state contains
-an array of books and the active book, whatever is 
-returned will show up as props within BookList*/
+
 function mapStateToProps(state) {
+  // Whatever is returned will show up as props
+  // inside of BookList
   return {
     books: state.books
   };
 }
-// Anything returned from this function will end up as props on
-//the BookList container
+
+// Anything returned from this function will end up as props
+// on the BookList container
 function mapDispatchToProps(dispatch) {
+  // Whenever selectBook is called, the result shoudl be passed
+  // to all of our reducers
   return bindActionCreators({ selectBook: selectBook }, dispatch);
 }
+
+// Promote BookList from a component to a container - it needs to know
+// about this new dispatch method, selectBook. Make it available
+// as a prop.
+export default connect(mapStateToProps, mapDispatchToProps)(BookList);
 /* dispatch acts like a funnel, receives actions and 
 spits them out to all the different reducers in app
 Promote BookList from a component to a container - it needs
 to know about this new dispatch method, selectBook. Make it
 available as a prop  */
-export default connect(mapStateToProps, mapDispatchToProps)(BookList);
+//export default connect(mapStateToProps, mapDispatchToProps)//(BookList);
 //whenever selectBook is called, te result shold be
 // passed to all our reducers (flows through dispatch fn)
 //takes a fn and a component and produces a container!!

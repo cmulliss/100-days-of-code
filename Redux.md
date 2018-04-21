@@ -3,7 +3,6 @@
 * redux is in charge of managing our application state
 * state is a single plain js object
 * application state is completely different and separate to component state
-
 * reducers form application state
 * reducers all get tied together by 'combineReducers' in the reducers/index.js file
 * for each key in our combineReducers object, we assign one reducer

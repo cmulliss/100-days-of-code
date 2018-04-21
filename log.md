@@ -955,9 +955,9 @@ Missing my code today, but great day out!
 
 ### Day 84: Friday April 20, 2018
 
-**Today's Progress**:
+**Today's Progress**: React again, actions.
 
-**Thoughts:**
+**Thoughts:** Just keep going.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -966,9 +966,9 @@ Missing my code today, but great day out!
 
 ### Day 85: Saturday April 21, 2018
 
-**Today's Progress**:
+**Today's Progress**: Started middleware.
 
-**Thoughts:**
+**Thoughts:** Will continue this tomorrow.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
