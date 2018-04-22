@@ -977,9 +977,9 @@ Missing my code today, but great day out!
 
 ### Day 86: Sunday April 22, 2018
 
-**Today's Progress**:
+**Today's Progress**: Started the weather app in the tutorial.
 
-**Thoughts:**
+**Thoughts:** Interesting as tutor gives warnings about sticking with it and not being overwhelmed.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
