@@ -924,7 +924,7 @@ Missing my code today, but great day out!
 
 **Today's Progress**: None
 
-**Thoughts:** 
+**Thoughts:**
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -988,9 +988,9 @@ Missing my code today, but great day out!
 
 ### Day 87: Monday April 23, 2018
 
-**Today's Progress**:
+**Today's Progress**: Continuing the weather app tutorial.
 
-**Thoughts:**
+**Thoughts:** Interesting, moves on to fetching the weather data next.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -1170,9 +1170,32 @@ Missing my code today, but great day out!
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
+
 ---
 
 ### Day 104: Thursday 10 May, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 105: Friday 11 May, 2018
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+
+---
+
+### Day 106: Saturday 12 May, 2018
 
 **Today's Progress**:
 
