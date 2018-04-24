@@ -999,9 +999,9 @@ Missing my code today, but great day out!
 
 ### Day 88: Tuesday April 24, 2018
 
-**Today's Progress**:
+**Today's Progress**: Looking at the openweather.org's api and the xml and json data available. 
 
-**Thoughts:**
+**Thoughts:** Will do more tomorrow.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
