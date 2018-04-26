@@ -106,4 +106,25 @@ export function fetchWeather(city) {
 * It's type was FETCH_WEATHER, the fetchWeather action creator takes a city, which is a string and uses it as part of the search query
 * we installed the axios library, which behaves like jquery
 * reaches out, does an ajax request in the form of a get url that we supply and returns a promise that we pass into the actions payload property.
-*
+* at top of searchBar, import connect, bindActionCreators and the action creator we have just created, fetchWeather
+* our goal is to hook up the action creator fetchWeather to our searchBar container.
+* we do that by defining a fn at the bottom of the search bar called mapDispatchToProps
+* and inside that fn, we return a call to bindActionCreators with fetchWeather, and then as second argument we pass in dispatch
+
+```javascript
+function mapDispatchToProps(dispatch) {
+  return bindActionsCreators({ fetchWeather }, dispatch);
+}
+export default connect(null, mapDispatchToProps)(SearchBar);
+```
+
+* so this causes the action creator, whenever it gets called adn returns an action, find action creators with dispatch
+* Make sure that action flows down into the middleware and then the reducers inside our redux app
+* now we will export default and connect null, mapDispatchToProps to searchBar.
+* null is used because this container doesn't care about state, but mapDispatchToProps in always second argument
+* so by binding the action creator fetchWeather to dispatch and mapping it to props that gives us access to the function this.props.fetchWeather indside of our component
+* insode of onFormSubmit which is when we want to call that action creator because a user is trying to search for a given city, we will sy this.props.fetchWeather and then we need to pass in the actual city which is this.state.term
+* as a convenience to our users, after we kick off the search here we'll also clear out that search input, by just calling this.setState and set term to empty
+* so whenever the user clicks submit, or presses enter, with the form selected it will call our action creator with the search term that they entered and then will set the state of term to empty string, which will cause our component to re-render, the input has a value of this.state.term so the inputs value will now be empty strings, will appear empty to user.
+
+-

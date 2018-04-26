@@ -1010,9 +1010,9 @@ Missing my code today, but great day out!
 
 ### Day 89: Wednesday April 25, 2018
 
-**Today's Progress**:
+**Today's Progress**: Progressing well with the weather app, promises, ajax calls, actions, action creators and reducers.
 
-**Thoughts:**
+**Thoughts:** Beginning to make more sense. Complicated but really interesting.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
