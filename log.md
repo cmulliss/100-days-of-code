@@ -999,7 +999,7 @@ Missing my code today, but great day out!
 
 ### Day 88: Tuesday April 24, 2018
 
-**Today's Progress**: Looking at the openweather.org's api and the xml and json data available. 
+**Today's Progress**: Looking at the openweather.org's api and the xml and json data available.
 
 **Thoughts:** Will do more tomorrow.
 
@@ -1021,9 +1021,9 @@ Missing my code today, but great day out!
 
 ### Day 90: Thursday April 26, 2018
 
-**Today's Progress**:
+**Today's Progress**: Some progress with weather app.
 
-**Thoughts:**
+**Thoughts:** Keep going over things to help fix it in my mind.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -1032,9 +1032,9 @@ Missing my code today, but great day out!
 
 ### Day 91: Friday April 27, 2018
 
-**Today's Progress**:
+**Today's Progress**: Very little progress due to openweathermap.org giving 404s and complaining about my API key. Created new one, but none of the 3 I have completed in total, work.
 
-**Thoughts:**
+**Thoughts:** Frustrating, will try again tomorrow.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

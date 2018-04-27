@@ -87,7 +87,7 @@ npm i --save react-sparklines@1.6.0
 ```javascript
 import axios from "axios";
 //using es6 template strings ``
-const API_KEY = "74511c527b1010d695024f17e6be9439";
+const API_KEY = "15ffe6f0bbbbba655c8f904d633ab7d2";
 const ROOT_URL = `http://api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`;
 
 export const FETCH_WEATHER = "FETCH_WEATHER";
@@ -126,5 +126,15 @@ export default connect(null, mapDispatchToProps)(SearchBar);
 * insode of onFormSubmit which is when we want to call that action creator because a user is trying to search for a given city, we will sy this.props.fetchWeather and then we need to pass in the actual city which is this.state.term
 * as a convenience to our users, after we kick off the search here we'll also clear out that search input, by just calling this.setState and set term to empty
 * so whenever the user clicks submit, or presses enter, with the form selected it will call our action creator with the search term that they entered and then will set the state of term to empty string, which will cause our component to re-render, the input has a value of this.state.term so the inputs value will now be empty strings, will appear empty to user.
+* get error, cannot read props of null, are using 'this' so need to bind it
+* we have onFormSubmit, which is a callback, and just added in reference to 'this' and cannot read property 'props of null'
+* when we have a callback, which we pass to a jsx, DOM elemenent that makes a reference to 'this', we need to bind the context.
+* So at the top, in the constructor, we add
+* this.onFormSubmit = this.onFormSubmit.bind(this);
+*
 
--
+### Summary
+
+* we are working in a container here and this needs to be able to call an action creator, needs to be able to reach out to redux and work with redux directly.
+* That means we need to connect our searchBar container to redux using the connect method from the react-redux library
+* We are also going to bind the action creator fetchWeather as a property to this container
