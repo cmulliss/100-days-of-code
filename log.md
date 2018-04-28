@@ -1043,9 +1043,9 @@ Missing my code today, but great day out!
 
 ### Day 92: Saturday April 28, 2018
 
-**Today's Progress**:
+**Today's Progress**: Solved 2 problems with weather app, but still not behanving as expected.
 
-**Thoughts:**
+**Thoughts:** Getting quite confused, might switch tutorials for now.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
