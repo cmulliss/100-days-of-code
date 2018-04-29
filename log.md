@@ -1054,9 +1054,9 @@ Missing my code today, but great day out!
 
 ### Day 93: Sunday April 29, 2018
 
-**Today's Progress**:
+**Today's Progress**: Switched to a different redux tutorial.
 
-**Thoughts:**
+**Thoughts:** Seems to be helping as it is explained in a slightly different way.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

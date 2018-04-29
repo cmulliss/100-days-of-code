@@ -138,3 +138,6 @@ export default connect(null, mapDispatchToProps)(SearchBar);
 * we are working in a container here and this needs to be able to call an action creator, needs to be able to reach out to redux and work with redux directly.
 * That means we need to connect our searchBar container to redux using the connect method from the react-redux library
 * We are also going to bind the action creator fetchWeather as a property to this container
+
+## Reminder Pro Redux
+s
