@@ -33,10 +33,21 @@ render(
 );
 ```
 
-* then import createStore from redux and add const store as fn
+* then import { createStore } from redux and add const store as fn
 * then pass a store key to provider, as store
 * what a reducer actually means in terms of redux so that we can pass one to the store
 * if redux app state exists as a store or single object, what reducers do is simply take the state in an action and return new state
 * so reducers, based on the action, will modify the state in a pure way
 * must NEVER mutate the state directly, will cause huge performance errors, so what we do is take the state and return an entirely new instance of it
 * create reducers folder in src, with index.js file
+* import ADD_REMINDER from constants file
+* to begin we will have one reducer, as a constant, named reminders
+* it's another anonymous => it will have 2 parameters, a state parameter, pre-initialised to an empty array as well as an action parameter as second argument
+* then initialise the variable within a reminders reducer called reminders, will simply be null, later on will change reminders variable to become a return state
+* Our action returns the type, we can use that type to understand exactly how we want to modify our reminders or state
+* so we use a switch statement on the action type because we can expect more than one type of action in the future, besides addReminder
+* set reminders to an array, and use spread operator and spread on state, allows us to copy the contents of one array object into another array the first element in the reminders array will be this current spread state, and the next one will be a new reminder with our actions
+* Now we need to define this helper reminder function, with one argument, action, as its parameter
+* we will simply return an object as a reminder with the text of action.text then an id of a random variable
+* default in this switch statement is state
+* then export our reducer
