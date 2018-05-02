@@ -1076,9 +1076,9 @@ Missing my code today, but great day out!
 
 ### Day 95: Tuesday May 1, 2018
 
-**Today's Progress**:
+**Today's Progress**: Redux going better.
 
-**Thoughts:**
+**Thoughts:** A bit confused, but getting clearer.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -1087,9 +1087,9 @@ Missing my code today, but great day out!
 
 ### Day 96: Wednesday May 2, 2018
 
-**Today's Progress**:
+**Today's Progress**: Code suddenly broken, can't find a solution so have switched tutorials again. 
 
-**Thoughts:**
+**Thoughts:** Hopefully this tutorial will explain things more clearly and the code will actually work.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

@@ -1,9 +1,9 @@
 {
-  "name": "reminder-pro",
+  "name": "2complete-react-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "prettier-eslint": "^8.8.1",
+    "ajv": "^6.4.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-redux": "^5.0.7",
@@ -15,5 +15,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "prettier-eslint": "^8.8.1"
   }
 }
