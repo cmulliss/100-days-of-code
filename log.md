@@ -1087,7 +1087,7 @@ Missing my code today, but great day out!
 
 ### Day 96: Wednesday May 2, 2018
 
-**Today's Progress**: Code suddenly broken, can't find a solution so have switched tutorials again. 
+**Today's Progress**: Code suddenly broken, can't find a solution so have switched tutorials again.
 
 **Thoughts:** Hopefully this tutorial will explain things more clearly and the code will actually work.
 
@@ -1098,9 +1098,9 @@ Missing my code today, but great day out!
 
 ### Day 97: Thursday 3 May, 2018
 
-**Today's Progress**:
+**Today's Progress**: Continuing with redux. Getting clearer, better at anticipating what comes next.
 
-**Thoughts:**
+**Thoughts:** Help! day 97 already.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
