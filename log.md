@@ -1109,9 +1109,9 @@ Missing my code today, but great day out!
 
 ### Day 98: Friday 4 May, 2018
 
-**Today's Progress**:
+**Today's Progress**: Learning redux still, understanding a bit more all the time.
 
-**Thoughts:**
+**Thoughts:** Tomorrow should be interesting.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
