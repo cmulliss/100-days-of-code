@@ -1120,9 +1120,9 @@ Missing my code today, but great day out!
 
 ### Day 99: Saturday 5 May, 2018
 
-**Today's Progress**:
+**Today's Progress**: On to containers.
 
-**Thoughts:**
+**Thoughts:**  Good day, getting a bit more familiar.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
