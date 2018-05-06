@@ -13,17 +13,13 @@ class App extends Component {
 
 export default App;
 
-/* whenever component loaded on screen, we want to call to this action and this action is going to go the reducer, upddate the state, catch that new state so we can render the info here. Component mounts and we call the action creator, call fn, moviesList. */
+/* whenever component loaded on screen, we want to call to this action and this action is going to go the reducer, upddate the state, catch that new state so we can render the info here. Component mounts and we call the action creator, call fn, moviesList. 
+create renderList fn, argument is the list of movies. Can't map null, so use a conditional to check
+call to a fn to iterate array, renderList is going to take whatever we have inside mmap.state.props, ie movies. Main idea of mapStateToProps is to make movies available inside props
+converting the redux state to props, will return an object, whatever we want ot have available as props. Since I want to get movies, just going to call it movies, which is going to be the data we want to have, it's going to be inside the redux state and not the react state. In the index, everthing will be stored inside something called movies.
 
-//create renderList fn, argument is the list of movies. Can't map null, so use a conditional to check
+we imported actions at top
 
-// call to a fn to iterate array, renderList is going to take whatever we have inside mmap.state.props, ie movies. Main idea of mapStateToProps is to make movies available inside props
-
-// converting the redux state to props, will return an object, whatever we want ot have available as props. Since I want to get movies, just going to call it movies, which is going to be the data we want to have, it's going to be inside the redux state and not the react state. In the index, everthing will be stored inside something called movies.
-
-// we imported actions at top
-
-/*
 This is where we connect the action creators and reducers
 First need 'connect', the second thing is to call to an action creator, need to import the action creator, so can use it, 2 different ways to do this)
 
@@ -32,7 +28,7 @@ To use redux state with this.props, we need a way to inject the redux state in t
 So have fn provided by redux, mapstateToProps, converting the redux state to props.
 Going to return some data, an object, movies in this case, from within the redux state.
 Everything will be stored in 'movies' in the redux state. 
-Go to reducers index file, it's going to be stored n something that calls movies. I want to make reference to this.props.movies and I should be getting whatever I have inside this state (of redux) state.movies. 
+Go to reducers index file, it's going to be stored in something that calls movies. I want to make reference to this.props.movies and I should be getting whatever I have inside this state (of redux) state.movies. 
 So we grab whatever we have within redux state, that calls movies and we can access through this.props movies with this.
 So, in the app, we have movies, and want to make reference to thuis.props.movies, and I should be getting whatever is inside this.state.movies (of redux).
 Still getting an error, so mapStateToRedux needs something more to connect with redux. Chnge from exporting default App, but making use of connect instead. 

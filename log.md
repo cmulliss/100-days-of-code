@@ -1122,7 +1122,7 @@ Missing my code today, but great day out!
 
 **Today's Progress**: On to containers.
 
-**Thoughts:**  Good day, getting a bit more familiar.
+**Thoughts:** Good day, getting a bit more familiar.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -1131,9 +1131,9 @@ Missing my code today, but great day out!
 
 ### Day 100: Sunday 6 May, 2018
 
-**Today's Progress**:
+**Today's Progress**: Finished the starting redux tutorial section and started the intermediate section.
 
-**Thoughts:**
+**Thoughts:** Making lots of notes, printing off pages of the separate files, annotating them, laying them out and going through the way they related to each other.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

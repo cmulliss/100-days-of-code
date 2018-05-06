@@ -17,4 +17,5 @@ This action creator is going to go to the reducers and pass this object. This ob
 How do we connect the action creators with the reducers?
 We do this from the application. From app component, make call to this action creator. We connect the action creators and the reducers through the component.
 
+this is an action in src/actions/index.js
 */
