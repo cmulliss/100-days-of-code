@@ -1142,9 +1142,9 @@ Missing my code today, but great day out!
 
 ### Day 101: Monday 7 May, 2018
 
-**Today's Progress**:
+**Today's Progress**: Continuing intermediate redux. 
 
-**Thoughts:**
+**Thoughts:** Definitely understanding more, really enjoying this.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -1153,9 +1153,9 @@ Missing my code today, but great day out!
 
 ### Day 102: Tuesday 8 May, 2018
 
-**Today's Progress**:
+**Today's Progress**: Great tutorial, progressing with redux.
 
-**Thoughts:**
+**Thoughts:** Still enjoying this, looking forward to tomorrow's session.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

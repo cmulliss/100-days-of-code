@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import { connect } from "react-redux";
+import { getCars } from "../actions";
+import { bindActionCreators } from "redux";
 
 export default class Search extends Component {
   state = {
@@ -35,5 +38,8 @@ export default class Search extends Component {
       </div>
     );
   }
+}
+function mapDispatchToProps(dispatch) {
+  return bindActionCreators({ getCars }, dispatch);
 }
 // make into a controlled component with this.state.keyword
