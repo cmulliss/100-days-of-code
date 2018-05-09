@@ -1164,9 +1164,9 @@ Missing my code today, but great day out!
 
 ### Day 103: Wednesdy 9 May, 2018
 
-**Today's Progress**:
+**Today's Progress**: More redux.
 
-**Thoughts:**
+**Thoughts:** Interesting as mostly revision with second project.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
