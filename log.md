@@ -1162,7 +1162,7 @@ Missing my code today, but great day out!
 
 ---
 
-### Day 103: Wednesdy 9 May, 2018
+### Day 103: Wednesday 9 May, 2018
 
 **Today's Progress**: More redux.
 
@@ -1186,9 +1186,9 @@ Missing my code today, but great day out!
 
 ### Day 105: Friday 11 May, 2018
 
-**Today's Progress**:
+**Today's Progress**: Redux again.
 
-**Thoughts:**
+**Thoughts:** Slow ...
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>
@@ -1197,9 +1197,19 @@ Missing my code today, but great day out!
 
 ### Day 106: Saturday 12 May, 2018
 
-**Today's Progress**:
+**Today's Progress**: More redux
 
-**Thoughts:**
+**Thoughts:** Still progressing, not much else to say!
+
+**Link to work:**
+<https://github.com/cmulliss/100-days-of-code>
+---
+
+### Day 107: Sunday 13 May, 2018
+
+**Today's Progress**: Reached the end of my 100 days.
+
+**Thoughts:** Hoped to get further along with react and redux. However, need to focus on just how far along I have come and not feel disappointed.
 
 **Link to work:**
 <https://github.com/cmulliss/100-days-of-code>

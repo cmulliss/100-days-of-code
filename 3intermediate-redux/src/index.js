@@ -9,7 +9,7 @@ import "./app.css";
 
 // COMPONENTS
 import App from "./components/app";
-import Car from "./components/car";
+import Car from "./containers/car";
 
 // REDUCERS
 import reducers from "./reducers";
